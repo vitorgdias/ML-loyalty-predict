@@ -1,6 +1,8 @@
 # Loyalty Predict
 
-Confira todo o material em [cursos.teomewhy.org](cursos.teomewhy.org).
+Repositório para acompanhamento do curso do canal Teo Me Why.
+
+Confira todo o material original em [cursos.teomewhy.org](cursos.teomewhy.org).
 
 Construção de uma solução de Data Science junto com a comunidade!
 
