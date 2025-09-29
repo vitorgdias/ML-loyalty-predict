@@ -1,0 +1,6 @@
+-- Daily Active Users (DAU)
+SELECT substr(DtCriacao,0,11) AS DtDia,
+       count(DISTINCT IdCliente) AS DAU
+FROM transacoes
+GROUP BY 1
+ORDER BY DtDia;
