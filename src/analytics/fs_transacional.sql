@@ -12,6 +12,8 @@ tb_agg_transacao AS (
 
     SELECT IdCliente,
 
+            max(julianday(date('2025-10-01','-1 day')) - julianday(dtCriacao)) AS idadeDias,
+
             count(DISTINCT dtDia) AS qtdeAtivacaoVida,
             count(DISTINCT CASE WHEN dtDia >= date('2025-10-01', '-7 day') THEN dtDia END) AS qtdeAtivacaoD7,
             count(DISTINCT CASE WHEN dtDia >= date('2025-10-01', '-14 day') THEN dtDia END) AS qtdeAtivacaoD14,
@@ -46,9 +48,9 @@ tb_agg_transacao AS (
             count(CASE WHEN dtHora BETWEEN 15 AND 21 THEN IdTransacao END) AS qtdeTransacaoTarde,
             count(CASE WHEN dtHora > 21 OR dtHora < 10 THEN IdTransacao END) AS qtdeTransacaoNoite,
 
-            1. * count(CASE WHEN dtHora BETWEEN 10 AND 14 THEN IdTransacao END) / count(IdTransacao) AS pctqtdeTransacaoManha,
-            1. * count(CASE WHEN dtHora BETWEEN 15 AND 21 THEN IdTransacao END) / count(IdTransacao) AS pctqtdeTransacaoTarde,
-            1. * count(CASE WHEN dtHora > 21 OR dtHora < 10 THEN IdTransacao END) / count(IdTransacao) AS pctqtdeTransacaoNoite
+            1. * count(CASE WHEN dtHora BETWEEN 10 AND 14 THEN IdTransacao END) / count(IdTransacao) AS pctdeTransacaoManha,
+            1. * count(CASE WHEN dtHora BETWEEN 15 AND 21 THEN IdTransacao END) / count(IdTransacao) AS pctdeTransacaoTarde,
+            1. * count(CASE WHEN dtHora > 21 OR dtHora < 10 THEN IdTransacao END) / count(IdTransacao) AS pctdeTransacaoNoite
 
     FROM tb_transacao
     GROUP BY IdCliente
@@ -115,6 +117,28 @@ tb_intervalo_dias AS (
 
 ),
 
+tb_share_produtos AS (
+    SELECT 
+        idCliente,
+        1. * COUNT(CASE WHEN descNomeProduto = 'ChatMessage' THEN t1.IdTransacao END) / count(t1.IdTransacao) AS qteChatMessage,
+        1. * COUNT(CASE WHEN descNomeProduto = 'Airflow Lover' THEN t1.IdTransacao END) / count(t1.IdTransacao) AS qteAirflowLover,
+        1. * COUNT(CASE WHEN descNomeProduto = 'R Lover' THEN t1.IdTransacao END) / count(t1.IdTransacao) AS qteRLover,
+        1. * COUNT(CASE WHEN descNomeProduto = 'Resgatar Ponei' THEN t1.IdTransacao END) / count(t1.IdTransacao) AS qteResgatarPonei,
+        1. * COUNT(CASE WHEN descNomeProduto = 'Lista de presença' THEN t1.IdTransacao END) / count(t1.IdTransacao) AS qteListaPresenca,
+        1. * COUNT(CASE WHEN descNomeProduto = 'Presença Streak' THEN t1.IdTransacao END) / count(t1.IdTransacao) AS qtePresencaStreak,
+        1. * COUNT(CASE WHEN descNomeProduto = 'Troca de Pontos StreamElements' THEN t1.IdTransacao END) / count(t1.IdTransacao) AS qteTrocaStreamElements,
+        1. * COUNT(CASE WHEN descNomeProduto = 'Reembolso: Troca de Pontos StreamElements' THEN t1.IdTransacao END) / count(t1.IdTransacao) AS qteReembolsoStreamElements,
+        1. * COUNT(CASE WHEN DescCategoriaProduto = 'rpg' THEN t1.IdTransacao END) / count(t1.IdTransacao) AS qtdeRPG,
+        1. * COUNT(CASE WHEN DescCategoriaProduto = 'churn_model' THEN t1.IdTransacao END) / count(t1.IdTransacao) AS qtdeChurnModel
+
+    FROM tb_transacao AS t1
+    LEFT JOIN transacao_produto AS t2
+    ON t1.IdTransacao = t2.IdTransacao
+    LEFT JOIN produtos AS t3
+    ON t2.IdProduto = t3.IdProduto
+    GROUP BY idCliente
+),
+
 tb_join AS (
     SELECT t1.*,
         t2.qtdeHorasVida,
@@ -123,7 +147,17 @@ tb_join AS (
         t2.qtdeHorasD28,
         t2.qtdeHorasD56,
         t3.avgIntervaloDiasVida,
-        t3.avgIntervaloDiasD28
+        t3.avgIntervaloDiasD28,
+        t4.qteChatMessage,
+        t4.qteAirflowLover,
+        t4.qteRLover,
+        t4.qteResgatarPonei,
+        t4.qteListaPresenca,
+        t4.qtePresencaStreak,
+        t4.qteTrocaStreamElements,
+        t4.qteReembolsoStreamElements,
+        t4.qtdeRPG,
+        t4.qtdeChurnModel
 
     FROM tb_agg_calc AS t1
 
@@ -132,14 +166,12 @@ tb_join AS (
 
     LEFT JOIN tb_intervalo_dias AS t3
     ON t1.IdCliente = t3.IdCliente
+
+    LEFT JOIN tb_share_produtos AS t4
+    ON t1.IdCliente = t4.IdCliente
 )
 
-SELECT t1.*,
-    t2.IdProduto,
-    t3.descNomeProduto,
-    t3.descCategoriaProduto
-FROM tb_transacao AS t1
-LEFT JOIN transacao_produto AS t2
-ON t1.IdTransacao = t2.IdTransacao
-LEFT JOIN produtos AS t3
-ON t2.IdProduto = t3.IdProduto
+SELECT date('2025-10-01', '-1 day') AS dtRef,
+       *
+
+FROM tb_join
