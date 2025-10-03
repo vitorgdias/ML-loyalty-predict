@@ -1,35 +1,32 @@
--- Monthly Active Users (MAU)
 WITH tb_daily AS (
 
-    SELECT DISTINCT
-        date(substr(DtCriacao,0, 11)) AS DtDia,
+    SELECT DISTINCT 
+        date(substr(DtCriacao,0,11)) AS DtDia,
         IdCliente
 
     FROM transacoes
-    ORDER BY DtDia
+    order by DtDia
 
 ),
 
 tb_distinct_day AS (
 
-    SELECT 
-        DISTINCT DtDia as DtRef 
+    SELECT
+            DISTINCT DtDia AS dtRef
     FROM tb_daily
 
 )
 
-SELECT t1.DtRef, 
+SELECT t1.dtRef,
        count( distinct IdCliente) AS MAU,
-       count( distinct t2.DtDia) AS qtdeDias
-       
+       count(distinct t2.dtDia) AS qtdeDias
+
 FROM tb_distinct_day AS t1
 
 LEFT JOIN tb_daily AS t2
-ON t2.DtDia <= t1.DtRef
-AND julianday(t1.DtRef) - julianday(t2.DtDia) < 28
+ON t2.DtDia <= t1.dtRef
+AND julianday(t1.dtRef) - julianday(t2.DtDia) < 28
 
-GROUP BY t1.DtRef
+GROUP BY t1.dtRef
 
-ORDER BY t1.DtRef DESC
-
-LIMIT 1000
+ORDER BY t1.dtRef ASC

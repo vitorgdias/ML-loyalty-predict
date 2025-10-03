@@ -1,11 +1,11 @@
 SELECT dtRef,
-    descLifeCycle,
-    cluster,
-    count(*) AS qtdeCliente
+       descLifeCycle,
+       count(*) AS qtdeCliente
 
 FROM life_cycle
 
 WHERE descLifeCycle <> '05-ZUMBI'
+AND dtRef = (SELECT MAX(dtRef) FROM life_cycle)
 
-GROUP BY dtRef, descLifeCycle, cluster
-ORDER BY dtRef, descLifeCycle, cluster;
+group by dtRef, descLifeCycle
+order by dtRef, descLifeCycle
