@@ -2357,17 +2357,17 @@ idHabilidadeusuario;idUsuario;descNomeHabilidade;descNivelHabilidade;dtCriacao
 2356;10ef80c6-34a5-46aa-a096-734581b6ef96;ETL;01. Aprendiz;2025-03-01 01:08:04
 2357;10ef80c6-34a5-46aa-a096-734581b6ef96;Gestão / Liderança;03. Profissional;2025-03-01 01:08:04
 2358;10ef80c6-34a5-46aa-a096-734581b6ef96;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-03-01 01:08:04
-2359;10ef80c6-34a5-46aa-a096-734581b6ef96;Inteligência Emocional;01. Aprendiz;2025-03-01 01:08:04
-2360;10ef80c6-34a5-46aa-a096-734581b6ef96;Machine Learning - Agrupamento;01. Aprendiz;2025-03-01 01:08:04
+2359;10ef80c6-34a5-46aa-a096-734581b6ef96;Inteligência Emocional;02. Iniciante;2025-03-01 01:08:04
+2360;10ef80c6-34a5-46aa-a096-734581b6ef96;Machine Learning - Agrupamento;02. Iniciante;2025-03-01 01:08:04
 2361;10ef80c6-34a5-46aa-a096-734581b6ef96;Machine Learning - Associação;01. Aprendiz;2025-03-01 01:08:04
 2362;10ef80c6-34a5-46aa-a096-734581b6ef96;Machine Learning - Classificação;01. Aprendiz;2025-03-01 01:08:04
 2363;10ef80c6-34a5-46aa-a096-734581b6ef96;Machine Learning - Regressão;01. Aprendiz;2025-03-01 01:08:04
 2364;10ef80c6-34a5-46aa-a096-734581b6ef96;Negociação;01. Aprendiz;2025-03-01 01:08:04
 2365;10ef80c6-34a5-46aa-a096-734581b6ef96;Orquestrador de Pipelines;00. Não esperada;2025-03-01 01:08:04
 2366;10ef80c6-34a5-46aa-a096-734581b6ef96;Python / R / Julia;02. Iniciante;2025-03-01 01:08:04
-2367;10ef80c6-34a5-46aa-a096-734581b6ef96;Simplificação;00. Não esperada;2025-03-01 01:08:04
+2367;10ef80c6-34a5-46aa-a096-734581b6ef96;Simplificação;01. Aprendiz;2025-03-01 01:08:04
 2368;10ef80c6-34a5-46aa-a096-734581b6ef96;SQL;01. Aprendiz;2025-03-01 01:08:04
-2369;10ef80c6-34a5-46aa-a096-734581b6ef96;Teste de hipótese e Teste A/B;00. Não esperada;2025-03-01 01:08:04
+2369;10ef80c6-34a5-46aa-a096-734581b6ef96;Teste de hipótese e Teste A/B;01. Aprendiz;2025-03-01 01:08:04
 2370;d003b81d-97f4-4d34-9bce-a6f41e3d0ae6;Apache Spark;01. Aprendiz;2025-03-01 03:55:53
 2371;d003b81d-97f4-4d34-9bce-a6f41e3d0ae6;Cloud;01. Aprendiz;2025-03-01 03:55:53
 2372;d003b81d-97f4-4d34-9bce-a6f41e3d0ae6;Comunicação;02. Iniciante;2025-03-01 03:55:53
@@ -7646,13 +7646,13 @@ idHabilidadeusuario;idUsuario;descNomeHabilidade;descNivelHabilidade;dtCriacao
 7645;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Comunicação;02. Iniciante;2025-03-25 14:51:08
 7646;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Data Visualization;02. Iniciante;2025-03-25 14:51:08
 7647;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Estatística descritiva;01. Aprendiz;2025-03-25 14:51:08
-7648;38cf9f7b-5b67-4847-9bf3-333ab3c88181;ETL;02. Iniciante;2025-03-25 14:51:08
+7648;38cf9f7b-5b67-4847-9bf3-333ab3c88181;ETL;01. Aprendiz;2025-03-25 14:51:08
 7649;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Gestão / Liderança;03. Profissional;2025-03-25 14:51:08
-7650;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-03-25 14:51:08
+7650;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Git / GitHub / GitLab / BitBucket;02. Iniciante;2025-03-25 14:51:08
 7651;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Inteligência Emocional;03. Profissional;2025-03-25 14:51:08
 7652;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Machine Learning - Agrupamento;02. Iniciante;2025-03-25 14:51:08
 7653;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Machine Learning - Associação;01. Aprendiz;2025-03-25 14:51:08
-7654;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Machine Learning - Classificação;01. Aprendiz;2025-03-25 14:51:08
+7654;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Machine Learning - Classificação;02. Iniciante;2025-03-25 14:51:08
 7655;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Machine Learning - Regressão;01. Aprendiz;2025-03-25 14:51:08
 7656;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Negociação;01. Aprendiz;2025-03-25 14:51:08
 7657;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Python / R / Julia;01. Aprendiz;2025-03-25 14:51:08
@@ -11191,7 +11191,7 @@ idHabilidadeusuario;idUsuario;descNomeHabilidade;descNivelHabilidade;dtCriacao
 11190;38cf9f7b-5b67-4847-9bf3-333ab3c88181;IaC;01. Aprendiz;2025-04-24 16:10:32
 11191;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Kubernetes;01. Aprendiz;2025-04-24 16:10:32
 11192;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Mensageria;01. Aprendiz;2025-04-24 16:10:32
-11193;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Modelagem de dados;02. Iniciante;2025-04-24 16:10:32
+11193;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Modelagem de dados;01. Aprendiz;2025-04-24 16:10:32
 11194;38cf9f7b-5b67-4847-9bf3-333ab3c88181;Orquestrador de Pipelines;01. Aprendiz;2025-04-24 16:10:32
 11195;d50e2ceb-1153-400c-b817-e746e2af3bcc;Apresentação / Storytelling;02. Iniciante;2025-04-24 16:57:55
 11196;d50e2ceb-1153-400c-b817-e746e2af3bcc;Cloud;02. Iniciante;2025-04-24 16:57:55
@@ -15238,12 +15238,12 @@ idHabilidadeusuario;idUsuario;descNomeHabilidade;descNivelHabilidade;dtCriacao
 15237;f83ffece-3f39-4fff-834d-fc8996c6d274;Apresentação / Storytelling;02. Iniciante;2025-06-17 22:38:06
 15238;f83ffece-3f39-4fff-834d-fc8996c6d274;Cloud;01. Aprendiz;2025-06-17 22:38:06
 15239;f83ffece-3f39-4fff-834d-fc8996c6d274;Comunicação;02. Iniciante;2025-06-17 22:38:06
-15240;f83ffece-3f39-4fff-834d-fc8996c6d274;Data Visualization;02. Iniciante;2025-06-17 22:38:06
-15241;f83ffece-3f39-4fff-834d-fc8996c6d274;Docker;02. Iniciante;2025-06-17 22:38:06
+15240;f83ffece-3f39-4fff-834d-fc8996c6d274;Data Visualization;01. Aprendiz;2025-06-17 22:38:06
+15241;f83ffece-3f39-4fff-834d-fc8996c6d274;Docker;01. Aprendiz;2025-06-17 22:38:06
 15242;f83ffece-3f39-4fff-834d-fc8996c6d274;Estatística descritiva;02. Iniciante;2025-06-17 22:38:06
 15243;f83ffece-3f39-4fff-834d-fc8996c6d274;ETL;02. Iniciante;2025-06-17 22:38:06
 15244;f83ffece-3f39-4fff-834d-fc8996c6d274;Gestão / Liderança;00. Não esperada;2025-06-17 22:38:06
-15245;f83ffece-3f39-4fff-834d-fc8996c6d274;Git / GitHub / GitLab / BitBucket;02. Iniciante;2025-06-17 22:38:06
+15245;f83ffece-3f39-4fff-834d-fc8996c6d274;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-06-17 22:38:06
 15246;f83ffece-3f39-4fff-834d-fc8996c6d274;Inteligência Emocional;03. Profissional;2025-06-17 22:38:06
 15247;f83ffece-3f39-4fff-834d-fc8996c6d274;Machine Learning - Agrupamento;02. Iniciante;2025-06-17 22:38:06
 15248;f83ffece-3f39-4fff-834d-fc8996c6d274;Machine Learning - Associação;02. Iniciante;2025-06-17 22:38:06
@@ -23183,12 +23183,12 @@ idHabilidadeusuario;idUsuario;descNomeHabilidade;descNivelHabilidade;dtCriacao
 23182;fb6c53d8-8688-4313-971c-21df555bf74c;Simplificação;00. Não esperada;2025-08-20 14:20:21
 23183;fb6c53d8-8688-4313-971c-21df555bf74c;SQL;00. Não esperada;2025-08-20 14:20:21
 23184;fb6c53d8-8688-4313-971c-21df555bf74c;Teste de hipótese e Teste A/B;00. Não esperada;2025-08-20 14:20:21
-23185;dc45ea95-1596-4dd8-9908-bbe7eaa86340;Apresentação / Storytelling;02. Iniciante;2025-08-20 14:22:23
+23185;dc45ea95-1596-4dd8-9908-bbe7eaa86340;Apresentação / Storytelling;03. Profissional;2025-08-20 14:22:23
 23186;dc45ea95-1596-4dd8-9908-bbe7eaa86340;Cloud;00. Não esperada;2025-08-20 14:22:23
 23187;dc45ea95-1596-4dd8-9908-bbe7eaa86340;Comunicação;03. Profissional;2025-08-20 14:22:23
 23188;dc45ea95-1596-4dd8-9908-bbe7eaa86340;Data Visualization;03. Profissional;2025-08-20 14:22:23
 23189;dc45ea95-1596-4dd8-9908-bbe7eaa86340;Docker;00. Não esperada;2025-08-20 14:22:23
-23190;dc45ea95-1596-4dd8-9908-bbe7eaa86340;Estatística descritiva;00. Não esperada;2025-08-20 14:22:23
+23190;dc45ea95-1596-4dd8-9908-bbe7eaa86340;Estatística descritiva;02. Iniciante;2025-08-20 14:22:23
 23191;dc45ea95-1596-4dd8-9908-bbe7eaa86340;ETL;00. Não esperada;2025-08-20 14:22:23
 23192;dc45ea95-1596-4dd8-9908-bbe7eaa86340;Gestão / Liderança;03. Profissional;2025-08-20 14:22:23
 23193;dc45ea95-1596-4dd8-9908-bbe7eaa86340;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-08-20 14:22:23
@@ -25177,26 +25177,26 @@ idHabilidadeusuario;idUsuario;descNomeHabilidade;descNivelHabilidade;dtCriacao
 25176;facbd9b7-6ede-4bc3-a2c6-cf16298c0eac;Simplificação;00. Não esperada;2025-09-01 17:35:04
 25177;facbd9b7-6ede-4bc3-a2c6-cf16298c0eac;SQL;01. Aprendiz;2025-09-01 17:35:04
 25178;facbd9b7-6ede-4bc3-a2c6-cf16298c0eac;Teste de hipótese e Teste A/B;00. Não esperada;2025-09-01 17:35:04
-25179;8f7b75ff-d17c-44a0-a696-de03a19a653b;Apresentação / Storytelling;;2025-09-01 20:41:19
-25180;8f7b75ff-d17c-44a0-a696-de03a19a653b;Cloud;;2025-09-01 20:41:19
-25181;8f7b75ff-d17c-44a0-a696-de03a19a653b;Comunicação;;2025-09-01 20:41:19
-25182;8f7b75ff-d17c-44a0-a696-de03a19a653b;Data Visualization;;2025-09-01 20:41:19
-25183;8f7b75ff-d17c-44a0-a696-de03a19a653b;Docker;;2025-09-01 20:41:19
-25184;8f7b75ff-d17c-44a0-a696-de03a19a653b;Estatística descritiva;;2025-09-01 20:41:19
-25185;8f7b75ff-d17c-44a0-a696-de03a19a653b;ETL;;2025-09-01 20:41:19
-25186;8f7b75ff-d17c-44a0-a696-de03a19a653b;Gestão / Liderança;;2025-09-01 20:41:19
-25187;8f7b75ff-d17c-44a0-a696-de03a19a653b;Git / GitHub / GitLab / BitBucket;;2025-09-01 20:41:19
-25188;8f7b75ff-d17c-44a0-a696-de03a19a653b;Inteligência Emocional;;2025-09-01 20:41:19
-25189;8f7b75ff-d17c-44a0-a696-de03a19a653b;Machine Learning - Agrupamento;;2025-09-01 20:41:19
-25190;8f7b75ff-d17c-44a0-a696-de03a19a653b;Machine Learning - Associação;;2025-09-01 20:41:19
-25191;8f7b75ff-d17c-44a0-a696-de03a19a653b;Machine Learning - Classificação;;2025-09-01 20:41:19
-25192;8f7b75ff-d17c-44a0-a696-de03a19a653b;Machine Learning - Regressão;;2025-09-01 20:41:19
-25193;8f7b75ff-d17c-44a0-a696-de03a19a653b;Negociação;;2025-09-01 20:41:19
-25194;8f7b75ff-d17c-44a0-a696-de03a19a653b;Orquestrador de Pipelines;;2025-09-01 20:41:19
-25195;8f7b75ff-d17c-44a0-a696-de03a19a653b;Python / R / Julia;;2025-09-01 20:41:19
-25196;8f7b75ff-d17c-44a0-a696-de03a19a653b;Simplificação;;2025-09-01 20:41:19
-25197;8f7b75ff-d17c-44a0-a696-de03a19a653b;SQL;;2025-09-01 20:41:19
-25198;8f7b75ff-d17c-44a0-a696-de03a19a653b;Teste de hipótese e Teste A/B;;2025-09-01 20:41:19
+25179;8f7b75ff-d17c-44a0-a696-de03a19a653b;Apresentação / Storytelling;01. Aprendiz;2025-09-01 20:41:19
+25180;8f7b75ff-d17c-44a0-a696-de03a19a653b;Cloud;01. Aprendiz;2025-09-01 20:41:19
+25181;8f7b75ff-d17c-44a0-a696-de03a19a653b;Comunicação;01. Aprendiz;2025-09-01 20:41:19
+25182;8f7b75ff-d17c-44a0-a696-de03a19a653b;Data Visualization;01. Aprendiz;2025-09-01 20:41:19
+25183;8f7b75ff-d17c-44a0-a696-de03a19a653b;Docker;01. Aprendiz;2025-09-01 20:41:19
+25184;8f7b75ff-d17c-44a0-a696-de03a19a653b;Estatística descritiva;02. Iniciante;2025-09-01 20:41:19
+25185;8f7b75ff-d17c-44a0-a696-de03a19a653b;ETL;01. Aprendiz;2025-09-01 20:41:19
+25186;8f7b75ff-d17c-44a0-a696-de03a19a653b;Gestão / Liderança;01. Aprendiz;2025-09-01 20:41:19
+25187;8f7b75ff-d17c-44a0-a696-de03a19a653b;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-09-01 20:41:19
+25188;8f7b75ff-d17c-44a0-a696-de03a19a653b;Inteligência Emocional;01. Aprendiz;2025-09-01 20:41:19
+25189;8f7b75ff-d17c-44a0-a696-de03a19a653b;Machine Learning - Agrupamento;01. Aprendiz;2025-09-01 20:41:19
+25190;8f7b75ff-d17c-44a0-a696-de03a19a653b;Machine Learning - Associação;01. Aprendiz;2025-09-01 20:41:19
+25191;8f7b75ff-d17c-44a0-a696-de03a19a653b;Machine Learning - Classificação;01. Aprendiz;2025-09-01 20:41:19
+25192;8f7b75ff-d17c-44a0-a696-de03a19a653b;Machine Learning - Regressão;01. Aprendiz;2025-09-01 20:41:19
+25193;8f7b75ff-d17c-44a0-a696-de03a19a653b;Negociação;01. Aprendiz;2025-09-01 20:41:19
+25194;8f7b75ff-d17c-44a0-a696-de03a19a653b;Orquestrador de Pipelines;01. Aprendiz;2025-09-01 20:41:19
+25195;8f7b75ff-d17c-44a0-a696-de03a19a653b;Python / R / Julia;01. Aprendiz;2025-09-01 20:41:19
+25196;8f7b75ff-d17c-44a0-a696-de03a19a653b;Simplificação;01. Aprendiz;2025-09-01 20:41:19
+25197;8f7b75ff-d17c-44a0-a696-de03a19a653b;SQL;01. Aprendiz;2025-09-01 20:41:19
+25198;8f7b75ff-d17c-44a0-a696-de03a19a653b;Teste de hipótese e Teste A/B;01. Aprendiz;2025-09-01 20:41:19
 25199;0dd02e72-eb06-4ddd-9755-da974ce1d082;Apresentação / Storytelling;02. Iniciante;2025-09-01 23:02:56
 25200;0dd02e72-eb06-4ddd-9755-da974ce1d082;Comunicação;02. Iniciante;2025-09-01 23:02:56
 25201;0dd02e72-eb06-4ddd-9755-da974ce1d082;Data Visualization;01. Aprendiz;2025-09-01 23:02:56
@@ -26772,13 +26772,13 @@ idHabilidadeusuario;idUsuario;descNomeHabilidade;descNivelHabilidade;dtCriacao
 26771;1a85a181-cd57-4258-a577-8361dfa606a7;Python / R / Julia;00. Não esperada;2025-09-16 00:09:45
 26772;1a85a181-cd57-4258-a577-8361dfa606a7;Simplificação;00. Não esperada;2025-09-16 00:09:45
 26773;1a85a181-cd57-4258-a577-8361dfa606a7;SQL;00. Não esperada;2025-09-16 00:09:45
-26774;05773ab0-52f5-401d-aa0f-08884dde0bed;Apresentação / Storytelling;00. Não esperada;2025-09-16 02:28:52
+26774;05773ab0-52f5-401d-aa0f-08884dde0bed;Apresentação / Storytelling;01. Aprendiz;2025-09-16 02:28:52
 26775;05773ab0-52f5-401d-aa0f-08884dde0bed;Comunicação;02. Iniciante;2025-09-16 02:28:52
 26776;05773ab0-52f5-401d-aa0f-08884dde0bed;Data Visualization;00. Não esperada;2025-09-16 02:28:52
 26777;05773ab0-52f5-401d-aa0f-08884dde0bed;Estatística descritiva;00. Não esperada;2025-09-16 02:28:52
 26778;05773ab0-52f5-401d-aa0f-08884dde0bed;ETL;00. Não esperada;2025-09-16 02:28:52
-26779;05773ab0-52f5-401d-aa0f-08884dde0bed;Gestão / Liderança;02. Iniciante;2025-09-16 02:28:52
-26780;05773ab0-52f5-401d-aa0f-08884dde0bed;Git / GitHub / GitLab / BitBucket;02. Iniciante;2025-09-16 02:28:52
+26779;05773ab0-52f5-401d-aa0f-08884dde0bed;Gestão / Liderança;00. Não esperada;2025-09-16 02:28:52
+26780;05773ab0-52f5-401d-aa0f-08884dde0bed;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-09-16 02:28:52
 26781;05773ab0-52f5-401d-aa0f-08884dde0bed;Inteligência Emocional;02. Iniciante;2025-09-16 02:28:52
 26782;05773ab0-52f5-401d-aa0f-08884dde0bed;Machine Learning - Agrupamento;00. Não esperada;2025-09-16 02:28:52
 26783;05773ab0-52f5-401d-aa0f-08884dde0bed;Machine Learning - Associação;00. Não esperada;2025-09-16 02:28:52
@@ -28366,3 +28366,964 @@ idHabilidadeusuario;idUsuario;descNomeHabilidade;descNivelHabilidade;dtCriacao
 28365;68d12c65-312d-4038-b3f2-1a7f497b51f7;Simplificação;01. Aprendiz;2025-09-29 03:11:12
 28366;68d12c65-312d-4038-b3f2-1a7f497b51f7;SQL;02. Iniciante;2025-09-29 03:11:13
 28367;68d12c65-312d-4038-b3f2-1a7f497b51f7;Teste de hipótese e Teste A/B;01. Aprendiz;2025-09-29 03:11:13
+28368;74609a81-449d-46a4-9c29-3597a516525c;Apresentação / Storytelling;02. Iniciante;2025-09-29 11:57:27
+28369;74609a81-449d-46a4-9c29-3597a516525c;Comunicação;02. Iniciante;2025-09-29 11:57:27
+28370;74609a81-449d-46a4-9c29-3597a516525c;Data Visualization;01. Aprendiz;2025-09-29 11:57:27
+28371;74609a81-449d-46a4-9c29-3597a516525c;Estatística descritiva;01. Aprendiz;2025-09-29 11:57:27
+28372;74609a81-449d-46a4-9c29-3597a516525c;ETL;01. Aprendiz;2025-09-29 11:57:28
+28373;74609a81-449d-46a4-9c29-3597a516525c;Gestão / Liderança;01. Aprendiz;2025-09-29 11:57:28
+28374;74609a81-449d-46a4-9c29-3597a516525c;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-09-29 11:57:28
+28375;74609a81-449d-46a4-9c29-3597a516525c;Inteligência Emocional;01. Aprendiz;2025-09-29 11:57:28
+28376;74609a81-449d-46a4-9c29-3597a516525c;Machine Learning - Agrupamento;01. Aprendiz;2025-09-29 11:57:28
+28377;74609a81-449d-46a4-9c29-3597a516525c;Machine Learning - Associação;01. Aprendiz;2025-09-29 11:57:28
+28378;74609a81-449d-46a4-9c29-3597a516525c;Machine Learning - Classificação;01. Aprendiz;2025-09-29 11:57:28
+28379;74609a81-449d-46a4-9c29-3597a516525c;Machine Learning - Regressão;01. Aprendiz;2025-09-29 11:57:28
+28380;74609a81-449d-46a4-9c29-3597a516525c;Negociação;01. Aprendiz;2025-09-29 11:57:28
+28381;74609a81-449d-46a4-9c29-3597a516525c;Python / R / Julia;01. Aprendiz;2025-09-29 11:57:28
+28382;74609a81-449d-46a4-9c29-3597a516525c;Simplificação;01. Aprendiz;2025-09-29 11:57:28
+28383;74609a81-449d-46a4-9c29-3597a516525c;SQL;01. Aprendiz;2025-09-29 11:57:28
+28384;74609a81-449d-46a4-9c29-3597a516525c;Teste de hipótese e Teste A/B;01. Aprendiz;2025-09-29 11:57:28
+28385;5a7f15d0-004f-4494-a97c-bc47f6827147;Apresentação / Storytelling;00. Não esperada;2025-09-29 12:26:26
+28386;5a7f15d0-004f-4494-a97c-bc47f6827147;Comunicação;00. Não esperada;2025-09-29 12:26:26
+28387;5a7f15d0-004f-4494-a97c-bc47f6827147;Data Visualization;00. Não esperada;2025-09-29 12:26:26
+28388;5a7f15d0-004f-4494-a97c-bc47f6827147;Estatística descritiva;00. Não esperada;2025-09-29 12:26:26
+28389;5a7f15d0-004f-4494-a97c-bc47f6827147;ETL;00. Não esperada;2025-09-29 12:26:26
+28390;5a7f15d0-004f-4494-a97c-bc47f6827147;Gestão / Liderança;00. Não esperada;2025-09-29 12:26:26
+28391;5a7f15d0-004f-4494-a97c-bc47f6827147;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-09-29 12:26:26
+28392;5a7f15d0-004f-4494-a97c-bc47f6827147;Inteligência Emocional;03. Profissional;2025-09-29 12:26:26
+28393;5a7f15d0-004f-4494-a97c-bc47f6827147;Machine Learning - Agrupamento;00. Não esperada;2025-09-29 12:26:26
+28394;5a7f15d0-004f-4494-a97c-bc47f6827147;Machine Learning - Associação;00. Não esperada;2025-09-29 12:26:26
+28395;5a7f15d0-004f-4494-a97c-bc47f6827147;Machine Learning - Classificação;00. Não esperada;2025-09-29 12:26:26
+28396;5a7f15d0-004f-4494-a97c-bc47f6827147;Machine Learning - Regressão;00. Não esperada;2025-09-29 12:26:26
+28397;5a7f15d0-004f-4494-a97c-bc47f6827147;Negociação;01. Aprendiz;2025-09-29 12:26:26
+28398;5a7f15d0-004f-4494-a97c-bc47f6827147;Python / R / Julia;01. Aprendiz;2025-09-29 12:26:26
+28399;5a7f15d0-004f-4494-a97c-bc47f6827147;Simplificação;00. Não esperada;2025-09-29 12:26:26
+28400;5a7f15d0-004f-4494-a97c-bc47f6827147;SQL;01. Aprendiz;2025-09-29 12:26:26
+28401;5a7f15d0-004f-4494-a97c-bc47f6827147;Teste de hipótese e Teste A/B;00. Não esperada;2025-09-29 12:26:26
+28402;7ba81304-2404-425c-8de6-cf1097dc1ffd;Apresentação / Storytelling;01. Aprendiz;2025-09-29 12:32:32
+28403;7ba81304-2404-425c-8de6-cf1097dc1ffd;Cloud;01. Aprendiz;2025-09-29 12:32:32
+28404;7ba81304-2404-425c-8de6-cf1097dc1ffd;Comunicação;01. Aprendiz;2025-09-29 12:32:32
+28405;7ba81304-2404-425c-8de6-cf1097dc1ffd;Data Visualization;01. Aprendiz;2025-09-29 12:32:32
+28406;7ba81304-2404-425c-8de6-cf1097dc1ffd;Docker;02. Iniciante;2025-09-29 12:32:32
+28407;7ba81304-2404-425c-8de6-cf1097dc1ffd;Estatística descritiva;00. Não esperada;2025-09-29 12:32:32
+28408;7ba81304-2404-425c-8de6-cf1097dc1ffd;ETL;02. Iniciante;2025-09-29 12:32:32
+28409;7ba81304-2404-425c-8de6-cf1097dc1ffd;Gestão / Liderança;00. Não esperada;2025-09-29 12:32:32
+28410;7ba81304-2404-425c-8de6-cf1097dc1ffd;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-09-29 12:32:32
+28411;7ba81304-2404-425c-8de6-cf1097dc1ffd;Inteligência Emocional;01. Aprendiz;2025-09-29 12:32:32
+28412;7ba81304-2404-425c-8de6-cf1097dc1ffd;Machine Learning - Agrupamento;01. Aprendiz;2025-09-29 12:32:32
+28413;7ba81304-2404-425c-8de6-cf1097dc1ffd;Machine Learning - Associação;01. Aprendiz;2025-09-29 12:32:32
+28414;7ba81304-2404-425c-8de6-cf1097dc1ffd;Machine Learning - Classificação;;2025-09-29 12:32:32
+28415;7ba81304-2404-425c-8de6-cf1097dc1ffd;Machine Learning - Regressão;;2025-09-29 12:32:32
+28416;7ba81304-2404-425c-8de6-cf1097dc1ffd;Negociação;;2025-09-29 12:32:32
+28417;7ba81304-2404-425c-8de6-cf1097dc1ffd;Orquestrador de Pipelines;01. Aprendiz;2025-09-29 12:32:32
+28418;7ba81304-2404-425c-8de6-cf1097dc1ffd;Python / R / Julia;02. Iniciante;2025-09-29 12:32:32
+28419;7ba81304-2404-425c-8de6-cf1097dc1ffd;Simplificação;00. Não esperada;2025-09-29 12:32:32
+28420;7ba81304-2404-425c-8de6-cf1097dc1ffd;SQL;00. Não esperada;2025-09-29 12:32:32
+28421;7ba81304-2404-425c-8de6-cf1097dc1ffd;Teste de hipótese e Teste A/B;00. Não esperada;2025-09-29 12:32:32
+28422;347bda97-b9ea-4a19-80a3-aab43b9b7ebb;Apresentação / Storytelling;02. Iniciante;2025-09-29 12:57:19
+28423;347bda97-b9ea-4a19-80a3-aab43b9b7ebb;Comunicação;03. Profissional;2025-09-29 12:57:19
+28424;347bda97-b9ea-4a19-80a3-aab43b9b7ebb;Data Visualization;03. Profissional;2025-09-29 12:57:19
+28425;347bda97-b9ea-4a19-80a3-aab43b9b7ebb;Estatística descritiva;03. Profissional;2025-09-29 12:57:19
+28426;347bda97-b9ea-4a19-80a3-aab43b9b7ebb;ETL;02. Iniciante;2025-09-29 12:57:19
+28427;347bda97-b9ea-4a19-80a3-aab43b9b7ebb;Gestão / Liderança;02. Iniciante;2025-09-29 12:57:19
+28428;347bda97-b9ea-4a19-80a3-aab43b9b7ebb;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-09-29 12:57:19
+28429;347bda97-b9ea-4a19-80a3-aab43b9b7ebb;Inteligência Emocional;02. Iniciante;2025-09-29 12:57:19
+28430;347bda97-b9ea-4a19-80a3-aab43b9b7ebb;Machine Learning - Agrupamento;01. Aprendiz;2025-09-29 12:57:20
+28431;347bda97-b9ea-4a19-80a3-aab43b9b7ebb;Machine Learning - Associação;01. Aprendiz;2025-09-29 12:57:20
+28432;347bda97-b9ea-4a19-80a3-aab43b9b7ebb;Machine Learning - Classificação;01. Aprendiz;2025-09-29 12:57:20
+28433;347bda97-b9ea-4a19-80a3-aab43b9b7ebb;Machine Learning - Regressão;01. Aprendiz;2025-09-29 12:57:20
+28434;347bda97-b9ea-4a19-80a3-aab43b9b7ebb;Negociação;03. Profissional;2025-09-29 12:57:20
+28435;347bda97-b9ea-4a19-80a3-aab43b9b7ebb;Python / R / Julia;02. Iniciante;2025-09-29 12:57:20
+28436;347bda97-b9ea-4a19-80a3-aab43b9b7ebb;Simplificação;02. Iniciante;2025-09-29 12:57:20
+28437;347bda97-b9ea-4a19-80a3-aab43b9b7ebb;SQL;02. Iniciante;2025-09-29 12:57:20
+28438;347bda97-b9ea-4a19-80a3-aab43b9b7ebb;Teste de hipótese e Teste A/B;03. Profissional;2025-09-29 12:57:20
+28439;ba053649-1bc3-4e8a-ab63-349c684f9d6d;Apache Spark;04. Expert;2025-09-29 13:28:26
+28440;ba053649-1bc3-4e8a-ab63-349c684f9d6d;Cloud;04. Expert;2025-09-29 13:28:26
+28441;ba053649-1bc3-4e8a-ab63-349c684f9d6d;Comunicação;03. Profissional;2025-09-29 13:28:26
+28442;ba053649-1bc3-4e8a-ab63-349c684f9d6d;Docker;04. Expert;2025-09-29 13:28:26
+28443;ba053649-1bc3-4e8a-ab63-349c684f9d6d;ETL;04. Expert;2025-09-29 13:28:26
+28444;ba053649-1bc3-4e8a-ab63-349c684f9d6d;Gestão / Liderança;03. Profissional;2025-09-29 13:28:26
+28445;ba053649-1bc3-4e8a-ab63-349c684f9d6d;Git / GitHub / GitLab / BitBucket;04. Expert;2025-09-29 13:28:26
+28446;ba053649-1bc3-4e8a-ab63-349c684f9d6d;IaC;02. Iniciante;2025-09-29 13:28:26
+28447;ba053649-1bc3-4e8a-ab63-349c684f9d6d;Kubernetes;01. Aprendiz;2025-09-29 13:28:26
+28448;ba053649-1bc3-4e8a-ab63-349c684f9d6d;Machine Learning - Classificação;00. Não esperada;2025-09-29 13:28:26
+28449;ba053649-1bc3-4e8a-ab63-349c684f9d6d;Machine Learning - Regressão;00. Não esperada;2025-09-29 13:28:26
+28450;ba053649-1bc3-4e8a-ab63-349c684f9d6d;Mensageria;02. Iniciante;2025-09-29 13:28:26
+28451;ba053649-1bc3-4e8a-ab63-349c684f9d6d;Modelagem de dados;02. Iniciante;2025-09-29 13:28:27
+28452;ba053649-1bc3-4e8a-ab63-349c684f9d6d;Negociação;02. Iniciante;2025-09-29 13:28:27
+28453;ba053649-1bc3-4e8a-ab63-349c684f9d6d;Orquestrador de Pipelines;01. Aprendiz;2025-09-29 13:28:27
+28454;ba053649-1bc3-4e8a-ab63-349c684f9d6d;Python / R / Julia;02. Iniciante;2025-09-29 13:28:27
+28455;ba053649-1bc3-4e8a-ab63-349c684f9d6d;Simplificação;03. Profissional;2025-09-29 13:28:27
+28456;ba053649-1bc3-4e8a-ab63-349c684f9d6d;SQL;03. Profissional;2025-09-29 13:28:27
+28457;4f375b22-9225-4978-a1d6-4fd1a6ac499d;Apresentação / Storytelling;02. Iniciante;2025-09-29 13:59:08
+28458;4f375b22-9225-4978-a1d6-4fd1a6ac499d;Comunicação;02. Iniciante;2025-09-29 13:59:08
+28459;4f375b22-9225-4978-a1d6-4fd1a6ac499d;Data Visualization;02. Iniciante;2025-09-29 13:59:08
+28460;4f375b22-9225-4978-a1d6-4fd1a6ac499d;Estatística descritiva;02. Iniciante;2025-09-29 13:59:08
+28461;4f375b22-9225-4978-a1d6-4fd1a6ac499d;ETL;01. Aprendiz;2025-09-29 13:59:08
+28462;4f375b22-9225-4978-a1d6-4fd1a6ac499d;Gestão / Liderança;02. Iniciante;2025-09-29 13:59:08
+28463;4f375b22-9225-4978-a1d6-4fd1a6ac499d;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-09-29 13:59:08
+28464;4f375b22-9225-4978-a1d6-4fd1a6ac499d;Inteligência Emocional;02. Iniciante;2025-09-29 13:59:08
+28465;4f375b22-9225-4978-a1d6-4fd1a6ac499d;Machine Learning - Agrupamento;02. Iniciante;2025-09-29 13:59:08
+28466;4f375b22-9225-4978-a1d6-4fd1a6ac499d;Machine Learning - Associação;01. Aprendiz;2025-09-29 13:59:08
+28467;4f375b22-9225-4978-a1d6-4fd1a6ac499d;Machine Learning - Classificação;01. Aprendiz;2025-09-29 13:59:08
+28468;4f375b22-9225-4978-a1d6-4fd1a6ac499d;Machine Learning - Regressão;00. Não esperada;2025-09-29 13:59:08
+28469;4f375b22-9225-4978-a1d6-4fd1a6ac499d;Negociação;01. Aprendiz;2025-09-29 13:59:08
+28470;4f375b22-9225-4978-a1d6-4fd1a6ac499d;Python / R / Julia;02. Iniciante;2025-09-29 13:59:08
+28471;4f375b22-9225-4978-a1d6-4fd1a6ac499d;Simplificação;01. Aprendiz;2025-09-29 13:59:08
+28472;4f375b22-9225-4978-a1d6-4fd1a6ac499d;SQL;02. Iniciante;2025-09-29 13:59:08
+28473;4f375b22-9225-4978-a1d6-4fd1a6ac499d;Teste de hipótese e Teste A/B;02. Iniciante;2025-09-29 13:59:08
+28474;4bf5bba8-53fd-4c41-b9d3-83fbc65a1d49;Apresentação / Storytelling;00. Não esperada;2025-09-29 15:32:36
+28475;4bf5bba8-53fd-4c41-b9d3-83fbc65a1d49;Comunicação;02. Iniciante;2025-09-29 15:32:36
+28476;4bf5bba8-53fd-4c41-b9d3-83fbc65a1d49;Data Visualization;00. Não esperada;2025-09-29 15:32:36
+28477;4bf5bba8-53fd-4c41-b9d3-83fbc65a1d49;Estatística descritiva;00. Não esperada;2025-09-29 15:32:36
+28478;4bf5bba8-53fd-4c41-b9d3-83fbc65a1d49;ETL;00. Não esperada;2025-09-29 15:32:36
+28479;4bf5bba8-53fd-4c41-b9d3-83fbc65a1d49;Gestão / Liderança;01. Aprendiz;2025-09-29 15:32:36
+28480;4bf5bba8-53fd-4c41-b9d3-83fbc65a1d49;Git / GitHub / GitLab / BitBucket;00. Não esperada;2025-09-29 15:32:36
+28481;4bf5bba8-53fd-4c41-b9d3-83fbc65a1d49;Inteligência Emocional;02. Iniciante;2025-09-29 15:32:36
+28482;4bf5bba8-53fd-4c41-b9d3-83fbc65a1d49;Machine Learning - Agrupamento;00. Não esperada;2025-09-29 15:32:36
+28483;4bf5bba8-53fd-4c41-b9d3-83fbc65a1d49;Machine Learning - Associação;00. Não esperada;2025-09-29 15:32:36
+28484;4bf5bba8-53fd-4c41-b9d3-83fbc65a1d49;Machine Learning - Classificação;00. Não esperada;2025-09-29 15:32:36
+28485;4bf5bba8-53fd-4c41-b9d3-83fbc65a1d49;Machine Learning - Regressão;00. Não esperada;2025-09-29 15:32:36
+28486;4bf5bba8-53fd-4c41-b9d3-83fbc65a1d49;Negociação;02. Iniciante;2025-09-29 15:32:36
+28487;4bf5bba8-53fd-4c41-b9d3-83fbc65a1d49;Python / R / Julia;00. Não esperada;2025-09-29 15:32:36
+28488;4bf5bba8-53fd-4c41-b9d3-83fbc65a1d49;Simplificação;00. Não esperada;2025-09-29 15:32:36
+28489;4bf5bba8-53fd-4c41-b9d3-83fbc65a1d49;SQL;00. Não esperada;2025-09-29 15:32:36
+28490;4bf5bba8-53fd-4c41-b9d3-83fbc65a1d49;Teste de hipótese e Teste A/B;00. Não esperada;2025-09-29 15:32:36
+28491;6e089138-5886-49df-8c93-b1aeb03c5e6b;Apresentação / Storytelling;02. Iniciante;2025-09-29 15:34:22
+28492;6e089138-5886-49df-8c93-b1aeb03c5e6b;Cloud;00. Não esperada;2025-09-29 15:34:22
+28493;6e089138-5886-49df-8c93-b1aeb03c5e6b;Comunicação;01. Aprendiz;2025-09-29 15:34:22
+28494;6e089138-5886-49df-8c93-b1aeb03c5e6b;Data Visualization;01. Aprendiz;2025-09-29 15:34:22
+28495;6e089138-5886-49df-8c93-b1aeb03c5e6b;Docker;00. Não esperada;2025-09-29 15:34:22
+28496;6e089138-5886-49df-8c93-b1aeb03c5e6b;Estatística descritiva;01. Aprendiz;2025-09-29 15:34:22
+28497;6e089138-5886-49df-8c93-b1aeb03c5e6b;ETL;01. Aprendiz;2025-09-29 15:34:22
+28498;6e089138-5886-49df-8c93-b1aeb03c5e6b;Gestão / Liderança;01. Aprendiz;2025-09-29 15:34:22
+28499;6e089138-5886-49df-8c93-b1aeb03c5e6b;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-09-29 15:34:22
+28500;6e089138-5886-49df-8c93-b1aeb03c5e6b;Inteligência Emocional;01. Aprendiz;2025-09-29 15:34:22
+28501;6e089138-5886-49df-8c93-b1aeb03c5e6b;Machine Learning - Agrupamento;01. Aprendiz;2025-09-29 15:34:22
+28502;6e089138-5886-49df-8c93-b1aeb03c5e6b;Machine Learning - Associação;01. Aprendiz;2025-09-29 15:34:23
+28503;6e089138-5886-49df-8c93-b1aeb03c5e6b;Machine Learning - Classificação;01. Aprendiz;2025-09-29 15:34:23
+28504;6e089138-5886-49df-8c93-b1aeb03c5e6b;Machine Learning - Regressão;01. Aprendiz;2025-09-29 15:34:23
+28505;6e089138-5886-49df-8c93-b1aeb03c5e6b;Negociação;02. Iniciante;2025-09-29 15:34:23
+28506;6e089138-5886-49df-8c93-b1aeb03c5e6b;Orquestrador de Pipelines;00. Não esperada;2025-09-29 15:34:23
+28507;6e089138-5886-49df-8c93-b1aeb03c5e6b;Python / R / Julia;02. Iniciante;2025-09-29 15:34:23
+28508;6e089138-5886-49df-8c93-b1aeb03c5e6b;Simplificação;01. Aprendiz;2025-09-29 15:34:23
+28509;6e089138-5886-49df-8c93-b1aeb03c5e6b;SQL;02. Iniciante;2025-09-29 15:34:23
+28510;6e089138-5886-49df-8c93-b1aeb03c5e6b;Teste de hipótese e Teste A/B;01. Aprendiz;2025-09-29 15:34:23
+28511;6d1234ce-1dd4-4960-8297-017890218f4b;Apresentação / Storytelling;03. Profissional;2025-09-29 18:51:57
+28512;6d1234ce-1dd4-4960-8297-017890218f4b;Comunicação;03. Profissional;2025-09-29 18:51:57
+28513;6d1234ce-1dd4-4960-8297-017890218f4b;Data Visualization;02. Iniciante;2025-09-29 18:51:57
+28514;6d1234ce-1dd4-4960-8297-017890218f4b;Estatística descritiva;02. Iniciante;2025-09-29 18:51:57
+28515;6d1234ce-1dd4-4960-8297-017890218f4b;ETL;03. Profissional;2025-09-29 18:51:57
+28516;6d1234ce-1dd4-4960-8297-017890218f4b;Gestão / Liderança;04. Expert;2025-09-29 18:51:57
+28517;6d1234ce-1dd4-4960-8297-017890218f4b;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-09-29 18:51:57
+28518;6d1234ce-1dd4-4960-8297-017890218f4b;Inteligência Emocional;03. Profissional;2025-09-29 18:51:57
+28519;6d1234ce-1dd4-4960-8297-017890218f4b;Machine Learning - Agrupamento;02. Iniciante;2025-09-29 18:51:58
+28520;6d1234ce-1dd4-4960-8297-017890218f4b;Machine Learning - Associação;02. Iniciante;2025-09-29 18:51:58
+28521;6d1234ce-1dd4-4960-8297-017890218f4b;Machine Learning - Classificação;01. Aprendiz;2025-09-29 18:51:58
+28522;6d1234ce-1dd4-4960-8297-017890218f4b;Machine Learning - Regressão;03. Profissional;2025-09-29 18:51:58
+28523;6d1234ce-1dd4-4960-8297-017890218f4b;Negociação;03. Profissional;2025-09-29 18:51:58
+28524;6d1234ce-1dd4-4960-8297-017890218f4b;Python / R / Julia;01. Aprendiz;2025-09-29 18:51:58
+28525;6d1234ce-1dd4-4960-8297-017890218f4b;Simplificação;02. Iniciante;2025-09-29 18:51:58
+28526;6d1234ce-1dd4-4960-8297-017890218f4b;SQL;01. Aprendiz;2025-09-29 18:51:58
+28527;6d1234ce-1dd4-4960-8297-017890218f4b;Teste de hipótese e Teste A/B;01. Aprendiz;2025-09-29 18:51:58
+28528;6309c5e6-9605-49dd-9bf2-01d28616c920;Apresentação / Storytelling;01. Aprendiz;2025-09-29 19:13:38
+28529;6309c5e6-9605-49dd-9bf2-01d28616c920;Cloud;00. Não esperada;2025-09-29 19:13:38
+28530;6309c5e6-9605-49dd-9bf2-01d28616c920;Comunicação;00. Não esperada;2025-09-29 19:13:38
+28531;6309c5e6-9605-49dd-9bf2-01d28616c920;Data Visualization;00. Não esperada;2025-09-29 19:13:38
+28532;6309c5e6-9605-49dd-9bf2-01d28616c920;Docker;00. Não esperada;2025-09-29 19:13:38
+28533;6309c5e6-9605-49dd-9bf2-01d28616c920;Estatística descritiva;01. Aprendiz;2025-09-29 19:13:38
+28534;6309c5e6-9605-49dd-9bf2-01d28616c920;ETL;01. Aprendiz;2025-09-29 19:13:38
+28535;6309c5e6-9605-49dd-9bf2-01d28616c920;Gestão / Liderança;00. Não esperada;2025-09-29 19:13:38
+28536;6309c5e6-9605-49dd-9bf2-01d28616c920;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-09-29 19:13:38
+28537;6309c5e6-9605-49dd-9bf2-01d28616c920;Inteligência Emocional;02. Iniciante;2025-09-29 19:13:38
+28538;6309c5e6-9605-49dd-9bf2-01d28616c920;Machine Learning - Agrupamento;01. Aprendiz;2025-09-29 19:13:38
+28539;6309c5e6-9605-49dd-9bf2-01d28616c920;Machine Learning - Associação;01. Aprendiz;2025-09-29 19:13:38
+28540;6309c5e6-9605-49dd-9bf2-01d28616c920;Machine Learning - Classificação;00. Não esperada;2025-09-29 19:13:39
+28541;6309c5e6-9605-49dd-9bf2-01d28616c920;Machine Learning - Regressão;00. Não esperada;2025-09-29 19:13:39
+28542;6309c5e6-9605-49dd-9bf2-01d28616c920;Negociação;01. Aprendiz;2025-09-29 19:13:39
+28543;6309c5e6-9605-49dd-9bf2-01d28616c920;Orquestrador de Pipelines;00. Não esperada;2025-09-29 19:13:39
+28544;6309c5e6-9605-49dd-9bf2-01d28616c920;Python / R / Julia;01. Aprendiz;2025-09-29 19:13:39
+28545;6309c5e6-9605-49dd-9bf2-01d28616c920;Simplificação;01. Aprendiz;2025-09-29 19:13:39
+28546;6309c5e6-9605-49dd-9bf2-01d28616c920;SQL;02. Iniciante;2025-09-29 19:13:39
+28547;6309c5e6-9605-49dd-9bf2-01d28616c920;Teste de hipótese e Teste A/B;01. Aprendiz;2025-09-29 19:13:39
+28548;1e09b026-412d-46cf-a8ad-559d130e6001;Apresentação / Storytelling;01. Aprendiz;2025-09-29 21:24:07
+28549;1e09b026-412d-46cf-a8ad-559d130e6001;Cloud;01. Aprendiz;2025-09-29 21:24:07
+28550;1e09b026-412d-46cf-a8ad-559d130e6001;Comunicação;02. Iniciante;2025-09-29 21:24:07
+28551;1e09b026-412d-46cf-a8ad-559d130e6001;Data Visualization;01. Aprendiz;2025-09-29 21:24:07
+28552;1e09b026-412d-46cf-a8ad-559d130e6001;Docker;01. Aprendiz;2025-09-29 21:24:07
+28553;1e09b026-412d-46cf-a8ad-559d130e6001;Estatística descritiva;01. Aprendiz;2025-09-29 21:24:07
+28554;1e09b026-412d-46cf-a8ad-559d130e6001;ETL;01. Aprendiz;2025-09-29 21:24:07
+28555;1e09b026-412d-46cf-a8ad-559d130e6001;Gestão / Liderança;03. Profissional;2025-09-29 21:24:07
+28556;1e09b026-412d-46cf-a8ad-559d130e6001;Git / GitHub / GitLab / BitBucket;02. Iniciante;2025-09-29 21:24:07
+28557;1e09b026-412d-46cf-a8ad-559d130e6001;Inteligência Emocional;02. Iniciante;2025-09-29 21:24:07
+28558;1e09b026-412d-46cf-a8ad-559d130e6001;Machine Learning - Agrupamento;01. Aprendiz;2025-09-29 21:24:07
+28559;1e09b026-412d-46cf-a8ad-559d130e6001;Machine Learning - Associação;01. Aprendiz;2025-09-29 21:24:07
+28560;1e09b026-412d-46cf-a8ad-559d130e6001;Machine Learning - Classificação;01. Aprendiz;2025-09-29 21:24:08
+28561;1e09b026-412d-46cf-a8ad-559d130e6001;Machine Learning - Regressão;01. Aprendiz;2025-09-29 21:24:08
+28562;1e09b026-412d-46cf-a8ad-559d130e6001;Negociação;03. Profissional;2025-09-29 21:24:08
+28563;1e09b026-412d-46cf-a8ad-559d130e6001;Orquestrador de Pipelines;01. Aprendiz;2025-09-29 21:24:08
+28564;1e09b026-412d-46cf-a8ad-559d130e6001;Python / R / Julia;03. Profissional;2025-09-29 21:24:08
+28565;1e09b026-412d-46cf-a8ad-559d130e6001;Simplificação;01. Aprendiz;2025-09-29 21:24:08
+28566;1e09b026-412d-46cf-a8ad-559d130e6001;SQL;03. Profissional;2025-09-29 21:24:08
+28567;1e09b026-412d-46cf-a8ad-559d130e6001;Teste de hipótese e Teste A/B;01. Aprendiz;2025-09-29 21:24:08
+28568;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Apresentação / Storytelling;02. Iniciante;2025-09-29 22:26:12
+28569;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Cloud;01. Aprendiz;2025-09-29 22:26:12
+28570;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Comunicação;02. Iniciante;2025-09-29 22:26:12
+28571;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Data Visualization;03. Profissional;2025-09-29 22:26:12
+28572;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Docker;01. Aprendiz;2025-09-29 22:26:12
+28573;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Estatística descritiva;02. Iniciante;2025-09-29 22:26:12
+28574;acaaeb5d-1f52-47a4-bec7-8405401a90a2;ETL;02. Iniciante;2025-09-29 22:26:12
+28575;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Gestão / Liderança;00. Não esperada;2025-09-29 22:26:12
+28576;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Git / GitHub / GitLab / BitBucket;02. Iniciante;2025-09-29 22:26:12
+28577;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Inteligência Emocional;02. Iniciante;2025-09-29 22:26:12
+28578;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Machine Learning - Agrupamento;02. Iniciante;2025-09-29 22:26:12
+28579;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Machine Learning - Associação;02. Iniciante;2025-09-29 22:26:12
+28580;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Machine Learning - Classificação;02. Iniciante;2025-09-29 22:26:12
+28581;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Machine Learning - Regressão;02. Iniciante;2025-09-29 22:26:12
+28582;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Negociação;01. Aprendiz;2025-09-29 22:26:12
+28583;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Orquestrador de Pipelines;00. Não esperada;2025-09-29 22:26:12
+28584;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Python / R / Julia;02. Iniciante;2025-09-29 22:26:12
+28585;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Simplificação;01. Aprendiz;2025-09-29 22:26:12
+28586;acaaeb5d-1f52-47a4-bec7-8405401a90a2;SQL;02. Iniciante;2025-09-29 22:26:13
+28587;acaaeb5d-1f52-47a4-bec7-8405401a90a2;Teste de hipótese e Teste A/B;02. Iniciante;2025-09-29 22:26:13
+28588;68a718b2-cf8d-4216-b6a4-119c66274a8c;Apresentação / Storytelling;03. Profissional;2025-09-29 23:45:36
+28589;68a718b2-cf8d-4216-b6a4-119c66274a8c;Cloud;03. Profissional;2025-09-29 23:45:37
+28590;68a718b2-cf8d-4216-b6a4-119c66274a8c;Comunicação;02. Iniciante;2025-09-29 23:45:37
+28591;68a718b2-cf8d-4216-b6a4-119c66274a8c;Data Visualization;03. Profissional;2025-09-29 23:45:37
+28592;68a718b2-cf8d-4216-b6a4-119c66274a8c;Docker;03. Profissional;2025-09-29 23:45:37
+28593;68a718b2-cf8d-4216-b6a4-119c66274a8c;Estatística descritiva;03. Profissional;2025-09-29 23:45:37
+28594;68a718b2-cf8d-4216-b6a4-119c66274a8c;ETL;03. Profissional;2025-09-29 23:45:37
+28595;68a718b2-cf8d-4216-b6a4-119c66274a8c;Gestão / Liderança;03. Profissional;2025-09-29 23:45:37
+28596;68a718b2-cf8d-4216-b6a4-119c66274a8c;Git / GitHub / GitLab / BitBucket;03. Profissional;2025-09-29 23:45:37
+28597;68a718b2-cf8d-4216-b6a4-119c66274a8c;Inteligência Emocional;03. Profissional;2025-09-29 23:45:37
+28598;68a718b2-cf8d-4216-b6a4-119c66274a8c;Machine Learning - Agrupamento;02. Iniciante;2025-09-29 23:45:37
+28599;68a718b2-cf8d-4216-b6a4-119c66274a8c;Machine Learning - Associação;02. Iniciante;2025-09-29 23:45:37
+28600;68a718b2-cf8d-4216-b6a4-119c66274a8c;Machine Learning - Classificação;02. Iniciante;2025-09-29 23:45:37
+28601;68a718b2-cf8d-4216-b6a4-119c66274a8c;Machine Learning - Regressão;03. Profissional;2025-09-29 23:45:37
+28602;68a718b2-cf8d-4216-b6a4-119c66274a8c;Negociação;02. Iniciante;2025-09-29 23:45:37
+28603;68a718b2-cf8d-4216-b6a4-119c66274a8c;Orquestrador de Pipelines;01. Aprendiz;2025-09-29 23:45:37
+28604;68a718b2-cf8d-4216-b6a4-119c66274a8c;Python / R / Julia;03. Profissional;2025-09-29 23:45:37
+28605;68a718b2-cf8d-4216-b6a4-119c66274a8c;Simplificação;03. Profissional;2025-09-29 23:45:37
+28606;68a718b2-cf8d-4216-b6a4-119c66274a8c;SQL;03. Profissional;2025-09-29 23:45:37
+28607;68a718b2-cf8d-4216-b6a4-119c66274a8c;Teste de hipótese e Teste A/B;03. Profissional;2025-09-29 23:45:37
+28608;1fb00141-2768-4e35-8916-d6cf36064781;Apresentação / Storytelling;01. Aprendiz;2025-09-30 00:41:53
+28609;1fb00141-2768-4e35-8916-d6cf36064781;Cloud;00. Não esperada;2025-09-30 00:41:53
+28610;1fb00141-2768-4e35-8916-d6cf36064781;Comunicação;01. Aprendiz;2025-09-30 00:41:53
+28611;1fb00141-2768-4e35-8916-d6cf36064781;Data Visualization;00. Não esperada;2025-09-30 00:41:53
+28612;1fb00141-2768-4e35-8916-d6cf36064781;Docker;00. Não esperada;2025-09-30 00:41:53
+28613;1fb00141-2768-4e35-8916-d6cf36064781;Estatística descritiva;01. Aprendiz;2025-09-30 00:41:53
+28614;1fb00141-2768-4e35-8916-d6cf36064781;ETL;00. Não esperada;2025-09-30 00:41:53
+28615;1fb00141-2768-4e35-8916-d6cf36064781;Gestão / Liderança;01. Aprendiz;2025-09-30 00:41:53
+28616;1fb00141-2768-4e35-8916-d6cf36064781;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-09-30 00:41:53
+28617;1fb00141-2768-4e35-8916-d6cf36064781;Inteligência Emocional;02. Iniciante;2025-09-30 00:41:53
+28618;1fb00141-2768-4e35-8916-d6cf36064781;Machine Learning - Agrupamento;00. Não esperada;2025-09-30 00:41:53
+28619;1fb00141-2768-4e35-8916-d6cf36064781;Machine Learning - Associação;00. Não esperada;2025-09-30 00:41:53
+28620;1fb00141-2768-4e35-8916-d6cf36064781;Machine Learning - Classificação;00. Não esperada;2025-09-30 00:41:53
+28621;1fb00141-2768-4e35-8916-d6cf36064781;Machine Learning - Regressão;00. Não esperada;2025-09-30 00:41:53
+28622;1fb00141-2768-4e35-8916-d6cf36064781;Negociação;01. Aprendiz;2025-09-30 00:41:53
+28623;1fb00141-2768-4e35-8916-d6cf36064781;Orquestrador de Pipelines;00. Não esperada;2025-09-30 00:41:53
+28624;1fb00141-2768-4e35-8916-d6cf36064781;Python / R / Julia;01. Aprendiz;2025-09-30 00:41:53
+28625;1fb00141-2768-4e35-8916-d6cf36064781;Simplificação;00. Não esperada;2025-09-30 00:41:53
+28626;1fb00141-2768-4e35-8916-d6cf36064781;SQL;02. Iniciante;2025-09-30 00:41:53
+28627;1fb00141-2768-4e35-8916-d6cf36064781;Teste de hipótese e Teste A/B;00. Não esperada;2025-09-30 00:41:53
+28628;d810bd44-505e-4604-834d-63e80a2eb592;Apresentação / Storytelling;00. Não esperada;2025-09-30 01:37:49
+28629;d810bd44-505e-4604-834d-63e80a2eb592;Cloud;00. Não esperada;2025-09-30 01:37:49
+28630;d810bd44-505e-4604-834d-63e80a2eb592;Comunicação;00. Não esperada;2025-09-30 01:37:49
+28631;d810bd44-505e-4604-834d-63e80a2eb592;Data Visualization;00. Não esperada;2025-09-30 01:37:49
+28632;d810bd44-505e-4604-834d-63e80a2eb592;Docker;00. Não esperada;2025-09-30 01:37:49
+28633;d810bd44-505e-4604-834d-63e80a2eb592;Estatística descritiva;00. Não esperada;2025-09-30 01:37:49
+28634;d810bd44-505e-4604-834d-63e80a2eb592;ETL;00. Não esperada;2025-09-30 01:37:49
+28635;d810bd44-505e-4604-834d-63e80a2eb592;Gestão / Liderança;00. Não esperada;2025-09-30 01:37:49
+28636;d810bd44-505e-4604-834d-63e80a2eb592;Git / GitHub / GitLab / BitBucket;00. Não esperada;2025-09-30 01:37:49
+28637;d810bd44-505e-4604-834d-63e80a2eb592;Inteligência Emocional;00. Não esperada;2025-09-30 01:37:49
+28638;d810bd44-505e-4604-834d-63e80a2eb592;Machine Learning - Agrupamento;00. Não esperada;2025-09-30 01:37:50
+28639;d810bd44-505e-4604-834d-63e80a2eb592;Machine Learning - Associação;00. Não esperada;2025-09-30 01:37:50
+28640;d810bd44-505e-4604-834d-63e80a2eb592;Machine Learning - Classificação;00. Não esperada;2025-09-30 01:37:50
+28641;d810bd44-505e-4604-834d-63e80a2eb592;Machine Learning - Regressão;00. Não esperada;2025-09-30 01:37:50
+28642;d810bd44-505e-4604-834d-63e80a2eb592;Negociação;00. Não esperada;2025-09-30 01:37:50
+28643;d810bd44-505e-4604-834d-63e80a2eb592;Orquestrador de Pipelines;00. Não esperada;2025-09-30 01:37:50
+28644;d810bd44-505e-4604-834d-63e80a2eb592;Python / R / Julia;00. Não esperada;2025-09-30 01:37:50
+28645;d810bd44-505e-4604-834d-63e80a2eb592;Simplificação;00. Não esperada;2025-09-30 01:37:50
+28646;d810bd44-505e-4604-834d-63e80a2eb592;SQL;00. Não esperada;2025-09-30 01:37:50
+28647;d810bd44-505e-4604-834d-63e80a2eb592;Teste de hipótese e Teste A/B;00. Não esperada;2025-09-30 01:37:50
+28648;441c8c6b-fe67-44af-96c7-1267640dfb80;Apresentação / Storytelling;01. Aprendiz;2025-09-30 10:57:45
+28649;441c8c6b-fe67-44af-96c7-1267640dfb80;Comunicação;02. Iniciante;2025-09-30 10:57:45
+28650;441c8c6b-fe67-44af-96c7-1267640dfb80;Data Visualization;01. Aprendiz;2025-09-30 10:57:45
+28651;441c8c6b-fe67-44af-96c7-1267640dfb80;Estatística descritiva;01. Aprendiz;2025-09-30 10:57:45
+28652;441c8c6b-fe67-44af-96c7-1267640dfb80;ETL;01. Aprendiz;2025-09-30 10:57:45
+28653;441c8c6b-fe67-44af-96c7-1267640dfb80;Gestão / Liderança;02. Iniciante;2025-09-30 10:57:45
+28654;441c8c6b-fe67-44af-96c7-1267640dfb80;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-09-30 10:57:45
+28655;441c8c6b-fe67-44af-96c7-1267640dfb80;Inteligência Emocional;02. Iniciante;2025-09-30 10:57:45
+28656;441c8c6b-fe67-44af-96c7-1267640dfb80;Machine Learning - Agrupamento;00. Não esperada;2025-09-30 10:57:45
+28657;441c8c6b-fe67-44af-96c7-1267640dfb80;Machine Learning - Associação;01. Aprendiz;2025-09-30 10:57:45
+28658;441c8c6b-fe67-44af-96c7-1267640dfb80;Machine Learning - Classificação;01. Aprendiz;2025-09-30 10:57:45
+28659;441c8c6b-fe67-44af-96c7-1267640dfb80;Machine Learning - Regressão;01. Aprendiz;2025-09-30 10:57:45
+28660;441c8c6b-fe67-44af-96c7-1267640dfb80;Negociação;02. Iniciante;2025-09-30 10:57:45
+28661;441c8c6b-fe67-44af-96c7-1267640dfb80;Python / R / Julia;01. Aprendiz;2025-09-30 10:57:45
+28662;441c8c6b-fe67-44af-96c7-1267640dfb80;Simplificação;01. Aprendiz;2025-09-30 10:57:45
+28663;441c8c6b-fe67-44af-96c7-1267640dfb80;SQL;01. Aprendiz;2025-09-30 10:57:45
+28664;441c8c6b-fe67-44af-96c7-1267640dfb80;Teste de hipótese e Teste A/B;01. Aprendiz;2025-09-30 10:57:46
+28665;fa68f2be-354f-4163-b5d7-b122218f576c;Apache Spark;01. Aprendiz;2025-09-30 13:08:18
+28666;fa68f2be-354f-4163-b5d7-b122218f576c;Cloud;01. Aprendiz;2025-09-30 13:08:18
+28667;fa68f2be-354f-4163-b5d7-b122218f576c;Comunicação;01. Aprendiz;2025-09-30 13:08:18
+28668;fa68f2be-354f-4163-b5d7-b122218f576c;Docker;01. Aprendiz;2025-09-30 13:08:18
+28669;fa68f2be-354f-4163-b5d7-b122218f576c;ETL;01. Aprendiz;2025-09-30 13:08:18
+28670;fa68f2be-354f-4163-b5d7-b122218f576c;Gestão / Liderança;01. Aprendiz;2025-09-30 13:08:18
+28671;fa68f2be-354f-4163-b5d7-b122218f576c;Git / GitHub / GitLab / BitBucket;02. Iniciante;2025-09-30 13:08:18
+28672;fa68f2be-354f-4163-b5d7-b122218f576c;IaC;01. Aprendiz;2025-09-30 13:08:19
+28673;fa68f2be-354f-4163-b5d7-b122218f576c;Kubernetes;01. Aprendiz;2025-09-30 13:08:19
+28674;fa68f2be-354f-4163-b5d7-b122218f576c;Machine Learning - Classificação;00. Não esperada;2025-09-30 13:08:19
+28675;fa68f2be-354f-4163-b5d7-b122218f576c;Machine Learning - Regressão;00. Não esperada;2025-09-30 13:08:19
+28676;fa68f2be-354f-4163-b5d7-b122218f576c;Mensageria;00. Não esperada;2025-09-30 13:08:19
+28677;fa68f2be-354f-4163-b5d7-b122218f576c;Modelagem de dados;01. Aprendiz;2025-09-30 13:08:19
+28678;fa68f2be-354f-4163-b5d7-b122218f576c;Negociação;01. Aprendiz;2025-09-30 13:08:19
+28679;fa68f2be-354f-4163-b5d7-b122218f576c;Orquestrador de Pipelines;02. Iniciante;2025-09-30 13:08:19
+28680;fa68f2be-354f-4163-b5d7-b122218f576c;Python / R / Julia;03. Profissional;2025-09-30 13:08:19
+28681;fa68f2be-354f-4163-b5d7-b122218f576c;Simplificação;02. Iniciante;2025-09-30 13:08:19
+28682;fa68f2be-354f-4163-b5d7-b122218f576c;SQL;03. Profissional;2025-09-30 13:08:19
+28683;e22e980b-fa20-4725-a803-7702eaffb3cb;Apache Spark;01. Aprendiz;2025-09-30 14:21:13
+28684;e22e980b-fa20-4725-a803-7702eaffb3cb;Cloud;01. Aprendiz;2025-09-30 14:21:14
+28685;e22e980b-fa20-4725-a803-7702eaffb3cb;Comunicação;02. Iniciante;2025-09-30 14:21:14
+28686;e22e980b-fa20-4725-a803-7702eaffb3cb;Docker;01. Aprendiz;2025-09-30 14:21:14
+28687;e22e980b-fa20-4725-a803-7702eaffb3cb;ETL;02. Iniciante;2025-09-30 14:21:14
+28688;e22e980b-fa20-4725-a803-7702eaffb3cb;Gestão / Liderança;00. Não esperada;2025-09-30 14:21:14
+28689;e22e980b-fa20-4725-a803-7702eaffb3cb;Git / GitHub / GitLab / BitBucket;02. Iniciante;2025-09-30 14:21:14
+28690;e22e980b-fa20-4725-a803-7702eaffb3cb;IaC;01. Aprendiz;2025-09-30 14:21:14
+28691;e22e980b-fa20-4725-a803-7702eaffb3cb;Kubernetes;01. Aprendiz;2025-09-30 14:21:14
+28692;e22e980b-fa20-4725-a803-7702eaffb3cb;Machine Learning - Classificação;00. Não esperada;2025-09-30 14:21:14
+28693;e22e980b-fa20-4725-a803-7702eaffb3cb;Machine Learning - Regressão;00. Não esperada;2025-09-30 14:21:14
+28694;e22e980b-fa20-4725-a803-7702eaffb3cb;Mensageria;00. Não esperada;2025-09-30 14:21:14
+28695;e22e980b-fa20-4725-a803-7702eaffb3cb;Modelagem de dados;02. Iniciante;2025-09-30 14:21:14
+28696;e22e980b-fa20-4725-a803-7702eaffb3cb;Negociação;00. Não esperada;2025-09-30 14:21:14
+28697;e22e980b-fa20-4725-a803-7702eaffb3cb;Orquestrador de Pipelines;01. Aprendiz;2025-09-30 14:21:14
+28698;e22e980b-fa20-4725-a803-7702eaffb3cb;Python / R / Julia;02. Iniciante;2025-09-30 14:21:14
+28699;e22e980b-fa20-4725-a803-7702eaffb3cb;Simplificação;02. Iniciante;2025-09-30 14:21:14
+28700;e22e980b-fa20-4725-a803-7702eaffb3cb;SQL;03. Profissional;2025-09-30 14:21:14
+28701;5b319851-81ba-4314-abbc-62c9c03b704f;Apresentação / Storytelling;03. Profissional;2025-09-30 16:55:21
+28702;5b319851-81ba-4314-abbc-62c9c03b704f;Cloud;01. Aprendiz;2025-09-30 16:55:21
+28703;5b319851-81ba-4314-abbc-62c9c03b704f;Comunicação;04. Expert;2025-09-30 16:55:21
+28704;5b319851-81ba-4314-abbc-62c9c03b704f;Data Visualization;03. Profissional;2025-09-30 16:55:21
+28705;5b319851-81ba-4314-abbc-62c9c03b704f;Docker;01. Aprendiz;2025-09-30 16:55:21
+28706;5b319851-81ba-4314-abbc-62c9c03b704f;Estatística descritiva;03. Profissional;2025-09-30 16:55:21
+28707;5b319851-81ba-4314-abbc-62c9c03b704f;ETL;03. Profissional;2025-09-30 16:55:21
+28708;5b319851-81ba-4314-abbc-62c9c03b704f;Gestão / Liderança;04. Expert;2025-09-30 16:55:21
+28709;5b319851-81ba-4314-abbc-62c9c03b704f;Git / GitHub / GitLab / BitBucket;03. Profissional;2025-09-30 16:55:21
+28710;5b319851-81ba-4314-abbc-62c9c03b704f;Inteligência Emocional;04. Expert;2025-09-30 16:55:21
+28711;5b319851-81ba-4314-abbc-62c9c03b704f;Machine Learning - Agrupamento;02. Iniciante;2025-09-30 16:55:21
+28712;5b319851-81ba-4314-abbc-62c9c03b704f;Machine Learning - Associação;02. Iniciante;2025-09-30 16:55:21
+28713;5b319851-81ba-4314-abbc-62c9c03b704f;Machine Learning - Classificação;03. Profissional;2025-09-30 16:55:21
+28714;5b319851-81ba-4314-abbc-62c9c03b704f;Machine Learning - Regressão;03. Profissional;2025-09-30 16:55:21
+28715;5b319851-81ba-4314-abbc-62c9c03b704f;Negociação;03. Profissional;2025-09-30 16:55:21
+28716;5b319851-81ba-4314-abbc-62c9c03b704f;Orquestrador de Pipelines;;2025-09-30 16:55:21
+28717;5b319851-81ba-4314-abbc-62c9c03b704f;Python / R / Julia;03. Profissional;2025-09-30 16:55:21
+28718;5b319851-81ba-4314-abbc-62c9c03b704f;Simplificação;03. Profissional;2025-09-30 16:55:22
+28719;5b319851-81ba-4314-abbc-62c9c03b704f;SQL;03. Profissional;2025-09-30 16:55:22
+28720;5b319851-81ba-4314-abbc-62c9c03b704f;Teste de hipótese e Teste A/B;01. Aprendiz;2025-09-30 16:55:22
+28721;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Apresentação / Storytelling;01. Aprendiz;2025-09-30 17:41:23
+28722;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Comunicação;02. Iniciante;2025-09-30 17:41:23
+28723;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Data Visualization;00. Não esperada;2025-09-30 17:41:23
+28724;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Estatística descritiva;01. Aprendiz;2025-09-30 17:41:23
+28725;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;ETL;00. Não esperada;2025-09-30 17:41:23
+28726;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Gestão / Liderança;01. Aprendiz;2025-09-30 17:41:24
+28727;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Git / GitHub / GitLab / BitBucket;00. Não esperada;2025-09-30 17:41:24
+28728;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Inteligência Emocional;01. Aprendiz;2025-09-30 17:41:24
+28729;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Machine Learning - Agrupamento;00. Não esperada;2025-09-30 17:41:24
+28730;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Machine Learning - Associação;00. Não esperada;2025-09-30 17:41:24
+28731;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Machine Learning - Classificação;00. Não esperada;2025-09-30 17:41:24
+28732;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Machine Learning - Regressão;00. Não esperada;2025-09-30 17:41:24
+28733;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Negociação;01. Aprendiz;2025-09-30 17:41:24
+28734;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Python / R / Julia;00. Não esperada;2025-09-30 17:41:24
+28735;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Simplificação;00. Não esperada;2025-09-30 17:41:24
+28736;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;SQL;00. Não esperada;2025-09-30 17:41:24
+28737;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Teste de hipótese e Teste A/B;00. Não esperada;2025-09-30 17:41:24
+28738;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Cloud;00. Não esperada;2025-09-30 18:03:50
+28739;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Docker;00. Não esperada;2025-09-30 18:03:50
+28740;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Orquestrador de Pipelines;00. Não esperada;2025-09-30 18:03:50
+28741;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Apache Spark;00. Não esperada;2025-09-30 18:08:15
+28742;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;IaC;00. Não esperada;2025-09-30 18:08:15
+28743;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Kubernetes;00. Não esperada;2025-09-30 18:08:15
+28744;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Mensageria;00. Não esperada;2025-09-30 18:08:16
+28745;9a072b4f-e528-4b88-95fc-2e0bf7413b2f;Modelagem de dados;00. Não esperada;2025-09-30 18:08:16
+28746;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Apresentação / Storytelling;;2025-09-30 18:53:58
+28747;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Cloud;;2025-09-30 18:53:58
+28748;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Comunicação;;2025-09-30 18:53:59
+28749;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Data Visualization;;2025-09-30 18:53:59
+28750;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Docker;;2025-09-30 18:53:59
+28751;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Estatística descritiva;;2025-09-30 18:53:59
+28752;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;ETL;;2025-09-30 18:53:59
+28753;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Gestão / Liderança;;2025-09-30 18:53:59
+28754;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Git / GitHub / GitLab / BitBucket;;2025-09-30 18:53:59
+28755;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Inteligência Emocional;;2025-09-30 18:53:59
+28756;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Machine Learning - Agrupamento;;2025-09-30 18:53:59
+28757;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Machine Learning - Associação;;2025-09-30 18:53:59
+28758;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Machine Learning - Classificação;;2025-09-30 18:53:59
+28759;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Machine Learning - Regressão;;2025-09-30 18:53:59
+28760;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Negociação;;2025-09-30 18:53:59
+28761;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Orquestrador de Pipelines;;2025-09-30 18:53:59
+28762;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Python / R / Julia;;2025-09-30 18:53:59
+28763;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Simplificação;;2025-09-30 18:53:59
+28764;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;SQL;;2025-09-30 18:53:59
+28765;1c9dc0c8-a079-437f-85a8-72eec0f4e21c;Teste de hipótese e Teste A/B;;2025-09-30 18:53:59
+28766;9fe76a23-2dc1-40dc-8c75-c2da359871e9;Apresentação / Storytelling;04. Expert;2025-09-30 22:07:23
+28767;9fe76a23-2dc1-40dc-8c75-c2da359871e9;Comunicação;04. Expert;2025-09-30 22:07:23
+28768;9fe76a23-2dc1-40dc-8c75-c2da359871e9;Data Visualization;04. Expert;2025-09-30 22:07:23
+28769;9fe76a23-2dc1-40dc-8c75-c2da359871e9;Estatística descritiva;04. Expert;2025-09-30 22:07:23
+28770;9fe76a23-2dc1-40dc-8c75-c2da359871e9;ETL;04. Expert;2025-09-30 22:07:23
+28771;9fe76a23-2dc1-40dc-8c75-c2da359871e9;Gestão / Liderança;03. Profissional;2025-09-30 22:07:23
+28772;9fe76a23-2dc1-40dc-8c75-c2da359871e9;Git / GitHub / GitLab / BitBucket;03. Profissional;2025-09-30 22:07:23
+28773;9fe76a23-2dc1-40dc-8c75-c2da359871e9;Inteligência Emocional;03. Profissional;2025-09-30 22:07:23
+28774;9fe76a23-2dc1-40dc-8c75-c2da359871e9;Machine Learning - Agrupamento;03. Profissional;2025-09-30 22:07:23
+28775;9fe76a23-2dc1-40dc-8c75-c2da359871e9;Machine Learning - Associação;03. Profissional;2025-09-30 22:07:23
+28776;9fe76a23-2dc1-40dc-8c75-c2da359871e9;Machine Learning - Classificação;03. Profissional;2025-09-30 22:07:23
+28777;9fe76a23-2dc1-40dc-8c75-c2da359871e9;Machine Learning - Regressão;03. Profissional;2025-09-30 22:07:23
+28778;9fe76a23-2dc1-40dc-8c75-c2da359871e9;Negociação;03. Profissional;2025-09-30 22:07:23
+28779;9fe76a23-2dc1-40dc-8c75-c2da359871e9;Python / R / Julia;04. Expert;2025-09-30 22:07:23
+28780;9fe76a23-2dc1-40dc-8c75-c2da359871e9;Simplificação;04. Expert;2025-09-30 22:07:23
+28781;9fe76a23-2dc1-40dc-8c75-c2da359871e9;SQL;04. Expert;2025-09-30 22:07:23
+28782;9fe76a23-2dc1-40dc-8c75-c2da359871e9;Teste de hipótese e Teste A/B;04. Expert;2025-09-30 22:07:23
+28783;8cff9bd8-9091-4fd8-9f23-4bb7e2fcd0fc;Apresentação / Storytelling;02. Iniciante;2025-10-01 02:28:03
+28784;8cff9bd8-9091-4fd8-9f23-4bb7e2fcd0fc;Comunicação;03. Profissional;2025-10-01 02:28:04
+28785;8cff9bd8-9091-4fd8-9f23-4bb7e2fcd0fc;Data Visualization;02. Iniciante;2025-10-01 02:28:04
+28786;8cff9bd8-9091-4fd8-9f23-4bb7e2fcd0fc;Estatística descritiva;01. Aprendiz;2025-10-01 02:28:04
+28787;8cff9bd8-9091-4fd8-9f23-4bb7e2fcd0fc;ETL;01. Aprendiz;2025-10-01 02:28:04
+28788;8cff9bd8-9091-4fd8-9f23-4bb7e2fcd0fc;Gestão / Liderança;03. Profissional;2025-10-01 02:28:04
+28789;8cff9bd8-9091-4fd8-9f23-4bb7e2fcd0fc;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-10-01 02:28:04
+28790;8cff9bd8-9091-4fd8-9f23-4bb7e2fcd0fc;Inteligência Emocional;03. Profissional;2025-10-01 02:28:04
+28791;8cff9bd8-9091-4fd8-9f23-4bb7e2fcd0fc;Machine Learning - Agrupamento;01. Aprendiz;2025-10-01 02:28:04
+28792;8cff9bd8-9091-4fd8-9f23-4bb7e2fcd0fc;Machine Learning - Associação;02. Iniciante;2025-10-01 02:28:04
+28793;8cff9bd8-9091-4fd8-9f23-4bb7e2fcd0fc;Machine Learning - Classificação;02. Iniciante;2025-10-01 02:28:04
+28794;8cff9bd8-9091-4fd8-9f23-4bb7e2fcd0fc;Machine Learning - Regressão;02. Iniciante;2025-10-01 02:28:04
+28795;8cff9bd8-9091-4fd8-9f23-4bb7e2fcd0fc;Negociação;03. Profissional;2025-10-01 02:28:04
+28796;8cff9bd8-9091-4fd8-9f23-4bb7e2fcd0fc;Python / R / Julia;01. Aprendiz;2025-10-01 02:28:04
+28797;8cff9bd8-9091-4fd8-9f23-4bb7e2fcd0fc;Simplificação;01. Aprendiz;2025-10-01 02:28:04
+28798;8cff9bd8-9091-4fd8-9f23-4bb7e2fcd0fc;SQL;02. Iniciante;2025-10-01 02:28:04
+28799;8cff9bd8-9091-4fd8-9f23-4bb7e2fcd0fc;Teste de hipótese e Teste A/B;01. Aprendiz;2025-10-01 02:28:04
+28800;1e06943c-6cec-4534-8dca-c20c293b529f;Apache Spark;01. Aprendiz;2025-10-01 09:28:42
+28801;1e06943c-6cec-4534-8dca-c20c293b529f;Cloud;03. Profissional;2025-10-01 09:28:42
+28802;1e06943c-6cec-4534-8dca-c20c293b529f;Comunicação;03. Profissional;2025-10-01 09:28:42
+28803;1e06943c-6cec-4534-8dca-c20c293b529f;Docker;03. Profissional;2025-10-01 09:28:42
+28804;1e06943c-6cec-4534-8dca-c20c293b529f;ETL;03. Profissional;2025-10-01 09:28:42
+28805;1e06943c-6cec-4534-8dca-c20c293b529f;Gestão / Liderança;01. Aprendiz;2025-10-01 09:28:42
+28806;1e06943c-6cec-4534-8dca-c20c293b529f;Git / GitHub / GitLab / BitBucket;03. Profissional;2025-10-01 09:28:42
+28807;1e06943c-6cec-4534-8dca-c20c293b529f;IaC;03. Profissional;2025-10-01 09:28:42
+28808;1e06943c-6cec-4534-8dca-c20c293b529f;Kubernetes;01. Aprendiz;2025-10-01 09:28:42
+28809;1e06943c-6cec-4534-8dca-c20c293b529f;Machine Learning - Classificação;03. Profissional;2025-10-01 09:28:42
+28810;1e06943c-6cec-4534-8dca-c20c293b529f;Machine Learning - Regressão;03. Profissional;2025-10-01 09:28:42
+28811;1e06943c-6cec-4534-8dca-c20c293b529f;Mensageria;02. Iniciante;2025-10-01 09:28:42
+28812;1e06943c-6cec-4534-8dca-c20c293b529f;Modelagem de dados;02. Iniciante;2025-10-01 09:28:43
+28813;1e06943c-6cec-4534-8dca-c20c293b529f;Negociação;01. Aprendiz;2025-10-01 09:28:43
+28814;1e06943c-6cec-4534-8dca-c20c293b529f;Orquestrador de Pipelines;02. Iniciante;2025-10-01 09:28:43
+28815;1e06943c-6cec-4534-8dca-c20c293b529f;Python / R / Julia;03. Profissional;2025-10-01 09:28:43
+28816;1e06943c-6cec-4534-8dca-c20c293b529f;Simplificação;03. Profissional;2025-10-01 09:28:43
+28817;1e06943c-6cec-4534-8dca-c20c293b529f;SQL;02. Iniciante;2025-10-01 09:28:43
+28818;c3829786-fdcb-4bd8-b4b7-13c00207606d;Apache Spark;01. Aprendiz;2025-10-01 11:43:22
+28819;c3829786-fdcb-4bd8-b4b7-13c00207606d;Cloud;01. Aprendiz;2025-10-01 11:43:22
+28820;c3829786-fdcb-4bd8-b4b7-13c00207606d;Comunicação;02. Iniciante;2025-10-01 11:43:22
+28821;c3829786-fdcb-4bd8-b4b7-13c00207606d;Docker;01. Aprendiz;2025-10-01 11:43:22
+28822;c3829786-fdcb-4bd8-b4b7-13c00207606d;ETL;01. Aprendiz;2025-10-01 11:43:22
+28823;c3829786-fdcb-4bd8-b4b7-13c00207606d;Gestão / Liderança;01. Aprendiz;2025-10-01 11:43:22
+28824;c3829786-fdcb-4bd8-b4b7-13c00207606d;Git / GitHub / GitLab / BitBucket;02. Iniciante;2025-10-01 11:43:22
+28825;c3829786-fdcb-4bd8-b4b7-13c00207606d;IaC;01. Aprendiz;2025-10-01 11:43:23
+28826;c3829786-fdcb-4bd8-b4b7-13c00207606d;Kubernetes;01. Aprendiz;2025-10-01 11:43:23
+28827;c3829786-fdcb-4bd8-b4b7-13c00207606d;Machine Learning - Classificação;02. Iniciante;2025-10-01 11:43:23
+28828;c3829786-fdcb-4bd8-b4b7-13c00207606d;Machine Learning - Regressão;02. Iniciante;2025-10-01 11:43:23
+28829;c3829786-fdcb-4bd8-b4b7-13c00207606d;Mensageria;00. Não esperada;2025-10-01 11:43:23
+28830;c3829786-fdcb-4bd8-b4b7-13c00207606d;Modelagem de dados;01. Aprendiz;2025-10-01 11:43:23
+28831;c3829786-fdcb-4bd8-b4b7-13c00207606d;Negociação;00. Não esperada;2025-10-01 11:43:23
+28832;c3829786-fdcb-4bd8-b4b7-13c00207606d;Orquestrador de Pipelines;01. Aprendiz;2025-10-01 11:43:23
+28833;c3829786-fdcb-4bd8-b4b7-13c00207606d;Python / R / Julia;02. Iniciante;2025-10-01 11:43:23
+28834;c3829786-fdcb-4bd8-b4b7-13c00207606d;Simplificação;01. Aprendiz;2025-10-01 11:43:23
+28835;c3829786-fdcb-4bd8-b4b7-13c00207606d;SQL;01. Aprendiz;2025-10-01 11:43:23
+28836;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;Apache Spark;01. Aprendiz;2025-10-01 14:26:02
+28837;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;Cloud;01. Aprendiz;2025-10-01 14:26:03
+28838;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;Comunicação;03. Profissional;2025-10-01 14:26:03
+28839;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;Docker;02. Iniciante;2025-10-01 14:26:03
+28840;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;ETL;01. Aprendiz;2025-10-01 14:26:03
+28841;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;Gestão / Liderança;03. Profissional;2025-10-01 14:26:03
+28842;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;Git / GitHub / GitLab / BitBucket;03. Profissional;2025-10-01 14:26:03
+28843;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;IaC;01. Aprendiz;2025-10-01 14:26:03
+28844;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;Kubernetes;01. Aprendiz;2025-10-01 14:26:03
+28845;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;Machine Learning - Classificação;01. Aprendiz;2025-10-01 14:26:03
+28846;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;Machine Learning - Regressão;01. Aprendiz;2025-10-01 14:26:03
+28847;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;Mensageria;01. Aprendiz;2025-10-01 14:26:03
+28848;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;Modelagem de dados;01. Aprendiz;2025-10-01 14:26:03
+28849;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;Negociação;02. Iniciante;2025-10-01 14:26:03
+28850;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;Orquestrador de Pipelines;01. Aprendiz;2025-10-01 14:26:03
+28851;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;Python / R / Julia;02. Iniciante;2025-10-01 14:26:03
+28852;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;Simplificação;03. Profissional;2025-10-01 14:26:03
+28853;a0187ac8-a5bf-4c26-aa82-eb96d9db40eb;SQL;03. Profissional;2025-10-01 14:26:03
+28854;b5105f85-cb12-4871-93cf-29ad48794d3a;Apresentação / Storytelling;00. Não esperada;2025-10-01 14:27:48
+28855;b5105f85-cb12-4871-93cf-29ad48794d3a;Comunicação;03. Profissional;2025-10-01 14:27:48
+28856;b5105f85-cb12-4871-93cf-29ad48794d3a;Data Visualization;01. Aprendiz;2025-10-01 14:27:48
+28857;b5105f85-cb12-4871-93cf-29ad48794d3a;Estatística descritiva;02. Iniciante;2025-10-01 14:27:48
+28858;b5105f85-cb12-4871-93cf-29ad48794d3a;ETL;00. Não esperada;2025-10-01 14:27:48
+28859;b5105f85-cb12-4871-93cf-29ad48794d3a;Gestão / Liderança;01. Aprendiz;2025-10-01 14:27:48
+28860;b5105f85-cb12-4871-93cf-29ad48794d3a;Git / GitHub / GitLab / BitBucket;00. Não esperada;2025-10-01 14:27:48
+28861;b5105f85-cb12-4871-93cf-29ad48794d3a;Inteligência Emocional;02. Iniciante;2025-10-01 14:27:48
+28862;b5105f85-cb12-4871-93cf-29ad48794d3a;Machine Learning - Agrupamento;00. Não esperada;2025-10-01 14:27:48
+28863;b5105f85-cb12-4871-93cf-29ad48794d3a;Machine Learning - Associação;00. Não esperada;2025-10-01 14:27:48
+28864;b5105f85-cb12-4871-93cf-29ad48794d3a;Machine Learning - Classificação;00. Não esperada;2025-10-01 14:27:48
+28865;b5105f85-cb12-4871-93cf-29ad48794d3a;Machine Learning - Regressão;00. Não esperada;2025-10-01 14:27:48
+28866;b5105f85-cb12-4871-93cf-29ad48794d3a;Negociação;01. Aprendiz;2025-10-01 14:27:48
+28867;b5105f85-cb12-4871-93cf-29ad48794d3a;Python / R / Julia;01. Aprendiz;2025-10-01 14:27:48
+28868;b5105f85-cb12-4871-93cf-29ad48794d3a;Simplificação;02. Iniciante;2025-10-01 14:27:48
+28869;b5105f85-cb12-4871-93cf-29ad48794d3a;SQL;02. Iniciante;2025-10-01 14:27:48
+28870;b5105f85-cb12-4871-93cf-29ad48794d3a;Teste de hipótese e Teste A/B;00. Não esperada;2025-10-01 14:27:48
+28871;b5105f85-cb12-4871-93cf-29ad48794d3a;Apache Spark;00. Não esperada;2025-10-01 14:28:34
+28872;b5105f85-cb12-4871-93cf-29ad48794d3a;Cloud;00. Não esperada;2025-10-01 14:28:34
+28873;b5105f85-cb12-4871-93cf-29ad48794d3a;Docker;00. Não esperada;2025-10-01 14:28:34
+28874;b5105f85-cb12-4871-93cf-29ad48794d3a;IaC;00. Não esperada;2025-10-01 14:28:35
+28875;b5105f85-cb12-4871-93cf-29ad48794d3a;Kubernetes;00. Não esperada;2025-10-01 14:28:35
+28876;b5105f85-cb12-4871-93cf-29ad48794d3a;Mensageria;00. Não esperada;2025-10-01 14:28:35
+28877;b5105f85-cb12-4871-93cf-29ad48794d3a;Modelagem de dados;00. Não esperada;2025-10-01 14:28:35
+28878;b5105f85-cb12-4871-93cf-29ad48794d3a;Orquestrador de Pipelines;00. Não esperada;2025-10-01 14:28:35
+28879;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;Apache Spark;00. Não esperada;2025-10-01 23:22:49
+28880;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;Cloud;00. Não esperada;2025-10-01 23:22:49
+28881;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;Comunicação;02. Iniciante;2025-10-01 23:22:49
+28882;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;Docker;00. Não esperada;2025-10-01 23:22:49
+28883;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;ETL;00. Não esperada;2025-10-01 23:22:49
+28884;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;Gestão / Liderança;01. Aprendiz;2025-10-01 23:22:49
+28885;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;Git / GitHub / GitLab / BitBucket;00. Não esperada;2025-10-01 23:22:49
+28886;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;IaC;00. Não esperada;2025-10-01 23:22:50
+28887;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;Kubernetes;00. Não esperada;2025-10-01 23:22:50
+28888;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;Machine Learning - Classificação;00. Não esperada;2025-10-01 23:22:50
+28889;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;Machine Learning - Regressão;00. Não esperada;2025-10-01 23:22:50
+28890;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;Mensageria;00. Não esperada;2025-10-01 23:22:50
+28891;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;Modelagem de dados;00. Não esperada;2025-10-01 23:22:50
+28892;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;Negociação;01. Aprendiz;2025-10-01 23:22:50
+28893;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;Orquestrador de Pipelines;00. Não esperada;2025-10-01 23:22:50
+28894;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;Python / R / Julia;01. Aprendiz;2025-10-01 23:22:50
+28895;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;Simplificação;00. Não esperada;2025-10-01 23:22:50
+28896;584cff2a-3dfa-48b4-91c7-f88d213bdb8a;SQL;01. Aprendiz;2025-10-01 23:22:50
+28897;e9026ca8-fff7-41f1-bed2-ad3aaf7f6f9e;Apresentação / Storytelling;00. Não esperada;2025-10-02 01:53:44
+28898;e9026ca8-fff7-41f1-bed2-ad3aaf7f6f9e;Comunicação;02. Iniciante;2025-10-02 01:53:44
+28899;e9026ca8-fff7-41f1-bed2-ad3aaf7f6f9e;Data Visualization;01. Aprendiz;2025-10-02 01:53:44
+28900;e9026ca8-fff7-41f1-bed2-ad3aaf7f6f9e;Estatística descritiva;02. Iniciante;2025-10-02 01:53:44
+28901;e9026ca8-fff7-41f1-bed2-ad3aaf7f6f9e;ETL;01. Aprendiz;2025-10-02 01:53:44
+28902;e9026ca8-fff7-41f1-bed2-ad3aaf7f6f9e;Gestão / Liderança;01. Aprendiz;2025-10-02 01:53:44
+28903;e9026ca8-fff7-41f1-bed2-ad3aaf7f6f9e;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-10-02 01:53:44
+28904;e9026ca8-fff7-41f1-bed2-ad3aaf7f6f9e;Inteligência Emocional;01. Aprendiz;2025-10-02 01:53:44
+28905;e9026ca8-fff7-41f1-bed2-ad3aaf7f6f9e;Machine Learning - Agrupamento;01. Aprendiz;2025-10-02 01:53:44
+28906;e9026ca8-fff7-41f1-bed2-ad3aaf7f6f9e;Machine Learning - Associação;01. Aprendiz;2025-10-02 01:53:44
+28907;e9026ca8-fff7-41f1-bed2-ad3aaf7f6f9e;Machine Learning - Classificação;01. Aprendiz;2025-10-02 01:53:44
+28908;e9026ca8-fff7-41f1-bed2-ad3aaf7f6f9e;Machine Learning - Regressão;01. Aprendiz;2025-10-02 01:53:44
+28909;e9026ca8-fff7-41f1-bed2-ad3aaf7f6f9e;Negociação;01. Aprendiz;2025-10-02 01:53:44
+28910;e9026ca8-fff7-41f1-bed2-ad3aaf7f6f9e;Python / R / Julia;02. Iniciante;2025-10-02 01:53:44
+28911;e9026ca8-fff7-41f1-bed2-ad3aaf7f6f9e;Simplificação;01. Aprendiz;2025-10-02 01:53:44
+28912;e9026ca8-fff7-41f1-bed2-ad3aaf7f6f9e;SQL;01. Aprendiz;2025-10-02 01:53:45
+28913;e9026ca8-fff7-41f1-bed2-ad3aaf7f6f9e;Teste de hipótese e Teste A/B;01. Aprendiz;2025-10-02 01:53:45
+28914;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Apresentação / Storytelling;;2025-10-02 13:37:35
+28915;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Cloud;;2025-10-02 13:37:35
+28916;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Comunicação;;2025-10-02 13:37:35
+28917;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Data Visualization;;2025-10-02 13:37:35
+28918;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Docker;;2025-10-02 13:37:35
+28919;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Estatística descritiva;;2025-10-02 13:37:35
+28920;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;ETL;;2025-10-02 13:37:35
+28921;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Gestão / Liderança;;2025-10-02 13:37:35
+28922;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Git / GitHub / GitLab / BitBucket;;2025-10-02 13:37:35
+28923;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Inteligência Emocional;;2025-10-02 13:37:35
+28924;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Machine Learning - Agrupamento;;2025-10-02 13:37:35
+28925;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Machine Learning - Associação;;2025-10-02 13:37:35
+28926;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Machine Learning - Classificação;;2025-10-02 13:37:35
+28927;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Machine Learning - Regressão;;2025-10-02 13:37:35
+28928;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Negociação;;2025-10-02 13:37:35
+28929;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Orquestrador de Pipelines;;2025-10-02 13:37:35
+28930;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Python / R / Julia;;2025-10-02 13:37:35
+28931;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Simplificação;;2025-10-02 13:37:35
+28932;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;SQL;;2025-10-02 13:37:35
+28933;20fc7abb-3f79-42e7-bd6f-9f30fbbcaef4;Teste de hipótese e Teste A/B;;2025-10-02 13:37:35
+28934;3d127d3e-1fe7-44e6-9e4a-694f8578cf20;Apresentação / Storytelling;02. Iniciante;2025-10-02 16:54:38
+28935;3d127d3e-1fe7-44e6-9e4a-694f8578cf20;Comunicação;03. Profissional;2025-10-02 16:54:38
+28936;3d127d3e-1fe7-44e6-9e4a-694f8578cf20;Data Visualization;00. Não esperada;2025-10-02 16:54:38
+28937;3d127d3e-1fe7-44e6-9e4a-694f8578cf20;Estatística descritiva;00. Não esperada;2025-10-02 16:54:38
+28938;3d127d3e-1fe7-44e6-9e4a-694f8578cf20;ETL;01. Aprendiz;2025-10-02 16:54:38
+28939;3d127d3e-1fe7-44e6-9e4a-694f8578cf20;Gestão / Liderança;02. Iniciante;2025-10-02 16:54:38
+28940;3d127d3e-1fe7-44e6-9e4a-694f8578cf20;Git / GitHub / GitLab / BitBucket;02. Iniciante;2025-10-02 16:54:38
+28941;3d127d3e-1fe7-44e6-9e4a-694f8578cf20;Inteligência Emocional;03. Profissional;2025-10-02 16:54:38
+28942;3d127d3e-1fe7-44e6-9e4a-694f8578cf20;Machine Learning - Agrupamento;00. Não esperada;2025-10-02 16:54:38
+28943;3d127d3e-1fe7-44e6-9e4a-694f8578cf20;Machine Learning - Associação;00. Não esperada;2025-10-02 16:54:38
+28944;3d127d3e-1fe7-44e6-9e4a-694f8578cf20;Machine Learning - Classificação;00. Não esperada;2025-10-02 16:54:38
+28945;3d127d3e-1fe7-44e6-9e4a-694f8578cf20;Machine Learning - Regressão;00. Não esperada;2025-10-02 16:54:38
+28946;3d127d3e-1fe7-44e6-9e4a-694f8578cf20;Negociação;01. Aprendiz;2025-10-02 16:54:38
+28947;3d127d3e-1fe7-44e6-9e4a-694f8578cf20;Python / R / Julia;02. Iniciante;2025-10-02 16:54:38
+28948;3d127d3e-1fe7-44e6-9e4a-694f8578cf20;Simplificação;02. Iniciante;2025-10-02 16:54:38
+28949;3d127d3e-1fe7-44e6-9e4a-694f8578cf20;SQL;00. Não esperada;2025-10-02 16:54:38
+28950;3d127d3e-1fe7-44e6-9e4a-694f8578cf20;Teste de hipótese e Teste A/B;01. Aprendiz;2025-10-02 16:54:39
+28951;15d144ef-1001-4fef-a8b9-a718e598927f;Apresentação / Storytelling;02. Iniciante;2025-10-02 17:46:04
+28952;15d144ef-1001-4fef-a8b9-a718e598927f;Comunicação;03. Profissional;2025-10-02 17:46:04
+28953;15d144ef-1001-4fef-a8b9-a718e598927f;Data Visualization;01. Aprendiz;2025-10-02 17:46:04
+28954;15d144ef-1001-4fef-a8b9-a718e598927f;Estatística descritiva;01. Aprendiz;2025-10-02 17:46:05
+28955;15d144ef-1001-4fef-a8b9-a718e598927f;ETL;03. Profissional;2025-10-02 17:46:05
+28956;15d144ef-1001-4fef-a8b9-a718e598927f;Gestão / Liderança;03. Profissional;2025-10-02 17:46:05
+28957;15d144ef-1001-4fef-a8b9-a718e598927f;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-10-02 17:46:05
+28958;15d144ef-1001-4fef-a8b9-a718e598927f;Inteligência Emocional;03. Profissional;2025-10-02 17:46:05
+28959;15d144ef-1001-4fef-a8b9-a718e598927f;Machine Learning - Agrupamento;01. Aprendiz;2025-10-02 17:46:05
+28960;15d144ef-1001-4fef-a8b9-a718e598927f;Machine Learning - Associação;01. Aprendiz;2025-10-02 17:46:05
+28961;15d144ef-1001-4fef-a8b9-a718e598927f;Machine Learning - Classificação;01. Aprendiz;2025-10-02 17:46:05
+28962;15d144ef-1001-4fef-a8b9-a718e598927f;Machine Learning - Regressão;01. Aprendiz;2025-10-02 17:46:05
+28963;15d144ef-1001-4fef-a8b9-a718e598927f;Negociação;02. Iniciante;2025-10-02 17:46:05
+28964;15d144ef-1001-4fef-a8b9-a718e598927f;Python / R / Julia;01. Aprendiz;2025-10-02 17:46:05
+28965;15d144ef-1001-4fef-a8b9-a718e598927f;Simplificação;03. Profissional;2025-10-02 17:46:05
+28966;15d144ef-1001-4fef-a8b9-a718e598927f;SQL;03. Profissional;2025-10-02 17:46:05
+28967;15d144ef-1001-4fef-a8b9-a718e598927f;Teste de hipótese e Teste A/B;01. Aprendiz;2025-10-02 17:46:05
+28968;4b141168-28b9-4d6a-b91d-e8c045e4de13;Apresentação / Storytelling;03. Profissional;2025-10-02 21:31:57
+28969;4b141168-28b9-4d6a-b91d-e8c045e4de13;Cloud;00. Não esperada;2025-10-02 21:31:58
+28970;4b141168-28b9-4d6a-b91d-e8c045e4de13;Comunicação;02. Iniciante;2025-10-02 21:31:58
+28971;4b141168-28b9-4d6a-b91d-e8c045e4de13;Data Visualization;03. Profissional;2025-10-02 21:31:58
+28972;4b141168-28b9-4d6a-b91d-e8c045e4de13;Docker;00. Não esperada;2025-10-02 21:31:58
+28973;4b141168-28b9-4d6a-b91d-e8c045e4de13;Estatística descritiva;02. Iniciante;2025-10-02 21:31:58
+28974;4b141168-28b9-4d6a-b91d-e8c045e4de13;ETL;00. Não esperada;2025-10-02 21:31:58
+28975;4b141168-28b9-4d6a-b91d-e8c045e4de13;Gestão / Liderança;02. Iniciante;2025-10-02 21:31:58
+28976;4b141168-28b9-4d6a-b91d-e8c045e4de13;Git / GitHub / GitLab / BitBucket;00. Não esperada;2025-10-02 21:31:58
+28977;4b141168-28b9-4d6a-b91d-e8c045e4de13;Inteligência Emocional;02. Iniciante;2025-10-02 21:31:58
+28978;4b141168-28b9-4d6a-b91d-e8c045e4de13;Machine Learning - Agrupamento;00. Não esperada;2025-10-02 21:31:58
+28979;4b141168-28b9-4d6a-b91d-e8c045e4de13;Machine Learning - Associação;00. Não esperada;2025-10-02 21:31:58
+28980;4b141168-28b9-4d6a-b91d-e8c045e4de13;Machine Learning - Classificação;00. Não esperada;2025-10-02 21:31:58
+28981;4b141168-28b9-4d6a-b91d-e8c045e4de13;Machine Learning - Regressão;01. Aprendiz;2025-10-02 21:31:58
+28982;4b141168-28b9-4d6a-b91d-e8c045e4de13;Negociação;02. Iniciante;2025-10-02 21:31:58
+28983;4b141168-28b9-4d6a-b91d-e8c045e4de13;Orquestrador de Pipelines;00. Não esperada;2025-10-02 21:31:58
+28984;4b141168-28b9-4d6a-b91d-e8c045e4de13;Python / R / Julia;03. Profissional;2025-10-02 21:31:58
+28985;4b141168-28b9-4d6a-b91d-e8c045e4de13;Simplificação;02. Iniciante;2025-10-02 21:31:58
+28986;4b141168-28b9-4d6a-b91d-e8c045e4de13;SQL;02. Iniciante;2025-10-02 21:31:58
+28987;4b141168-28b9-4d6a-b91d-e8c045e4de13;Teste de hipótese e Teste A/B;00. Não esperada;2025-10-02 21:31:58
+28988;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Apresentação / Storytelling;01. Aprendiz;2025-10-02 22:39:32
+28989;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Cloud;00. Não esperada;2025-10-02 22:39:32
+28990;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Comunicação;01. Aprendiz;2025-10-02 22:39:32
+28991;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Data Visualization;00. Não esperada;2025-10-02 22:39:32
+28992;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Docker;01. Aprendiz;2025-10-02 22:39:32
+28993;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Estatística descritiva;01. Aprendiz;2025-10-02 22:39:32
+28994;2eb2ac70-321d-48ed-91b6-d368b1f226f6;ETL;01. Aprendiz;2025-10-02 22:39:32
+28995;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Gestão / Liderança;00. Não esperada;2025-10-02 22:39:32
+28996;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Git / GitHub / GitLab / BitBucket;03. Profissional;2025-10-02 22:39:32
+28997;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Inteligência Emocional;02. Iniciante;2025-10-02 22:39:32
+28998;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Machine Learning - Agrupamento;00. Não esperada;2025-10-02 22:39:32
+28999;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Machine Learning - Associação;00. Não esperada;2025-10-02 22:39:32
+29000;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Machine Learning - Classificação;00. Não esperada;2025-10-02 22:39:32
+29001;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Machine Learning - Regressão;00. Não esperada;2025-10-02 22:39:32
+29002;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Negociação;00. Não esperada;2025-10-02 22:39:32
+29003;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Orquestrador de Pipelines;00. Não esperada;2025-10-02 22:39:32
+29004;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Python / R / Julia;03. Profissional;2025-10-02 22:39:32
+29005;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Simplificação;03. Profissional;2025-10-02 22:39:32
+29006;2eb2ac70-321d-48ed-91b6-d368b1f226f6;SQL;02. Iniciante;2025-10-02 22:39:32
+29007;2eb2ac70-321d-48ed-91b6-d368b1f226f6;Teste de hipótese e Teste A/B;01. Aprendiz;2025-10-02 22:39:32
+29008;9370b2f0-83a4-4465-9497-d5aa61e38c06;Apresentação / Storytelling;01. Aprendiz;2025-10-02 22:47:01
+29009;9370b2f0-83a4-4465-9497-d5aa61e38c06;Cloud;01. Aprendiz;2025-10-02 22:47:01
+29010;9370b2f0-83a4-4465-9497-d5aa61e38c06;Comunicação;01. Aprendiz;2025-10-02 22:47:01
+29011;9370b2f0-83a4-4465-9497-d5aa61e38c06;Data Visualization;01. Aprendiz;2025-10-02 22:47:01
+29012;9370b2f0-83a4-4465-9497-d5aa61e38c06;Docker;01. Aprendiz;2025-10-02 22:47:01
+29013;9370b2f0-83a4-4465-9497-d5aa61e38c06;Estatística descritiva;01. Aprendiz;2025-10-02 22:47:01
+29014;9370b2f0-83a4-4465-9497-d5aa61e38c06;ETL;01. Aprendiz;2025-10-02 22:47:01
+29015;9370b2f0-83a4-4465-9497-d5aa61e38c06;Gestão / Liderança;01. Aprendiz;2025-10-02 22:47:01
+29016;9370b2f0-83a4-4465-9497-d5aa61e38c06;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-10-02 22:47:01
+29017;9370b2f0-83a4-4465-9497-d5aa61e38c06;Inteligência Emocional;01. Aprendiz;2025-10-02 22:47:01
+29018;9370b2f0-83a4-4465-9497-d5aa61e38c06;Machine Learning - Agrupamento;01. Aprendiz;2025-10-02 22:47:01
+29019;9370b2f0-83a4-4465-9497-d5aa61e38c06;Machine Learning - Associação;01. Aprendiz;2025-10-02 22:47:01
+29020;9370b2f0-83a4-4465-9497-d5aa61e38c06;Machine Learning - Classificação;01. Aprendiz;2025-10-02 22:47:01
+29021;9370b2f0-83a4-4465-9497-d5aa61e38c06;Machine Learning - Regressão;01. Aprendiz;2025-10-02 22:47:01
+29022;9370b2f0-83a4-4465-9497-d5aa61e38c06;Negociação;01. Aprendiz;2025-10-02 22:47:01
+29023;9370b2f0-83a4-4465-9497-d5aa61e38c06;Orquestrador de Pipelines;01. Aprendiz;2025-10-02 22:47:01
+29024;9370b2f0-83a4-4465-9497-d5aa61e38c06;Python / R / Julia;01. Aprendiz;2025-10-02 22:47:01
+29025;9370b2f0-83a4-4465-9497-d5aa61e38c06;Simplificação;01. Aprendiz;2025-10-02 22:47:01
+29026;9370b2f0-83a4-4465-9497-d5aa61e38c06;SQL;01. Aprendiz;2025-10-02 22:47:01
+29027;9370b2f0-83a4-4465-9497-d5aa61e38c06;Teste de hipótese e Teste A/B;01. Aprendiz;2025-10-02 22:47:01
+29028;4a682823-17fd-4290-be92-a73e302f3c2a;Apresentação / Storytelling;00. Não esperada;2025-10-03 18:28:24
+29029;4a682823-17fd-4290-be92-a73e302f3c2a;Cloud;00. Não esperada;2025-10-03 18:28:24
+29030;4a682823-17fd-4290-be92-a73e302f3c2a;Comunicação;01. Aprendiz;2025-10-03 18:28:24
+29031;4a682823-17fd-4290-be92-a73e302f3c2a;Data Visualization;00. Não esperada;2025-10-03 18:28:24
+29032;4a682823-17fd-4290-be92-a73e302f3c2a;Docker;00. Não esperada;2025-10-03 18:28:24
+29033;4a682823-17fd-4290-be92-a73e302f3c2a;Estatística descritiva;00. Não esperada;2025-10-03 18:28:24
+29034;4a682823-17fd-4290-be92-a73e302f3c2a;ETL;00. Não esperada;2025-10-03 18:28:25
+29035;4a682823-17fd-4290-be92-a73e302f3c2a;Gestão / Liderança;00. Não esperada;2025-10-03 18:28:25
+29036;4a682823-17fd-4290-be92-a73e302f3c2a;Git / GitHub / GitLab / BitBucket;00. Não esperada;2025-10-03 18:28:25
+29037;4a682823-17fd-4290-be92-a73e302f3c2a;Inteligência Emocional;02. Iniciante;2025-10-03 18:28:25
+29038;4a682823-17fd-4290-be92-a73e302f3c2a;Machine Learning - Agrupamento;00. Não esperada;2025-10-03 18:28:25
+29039;4a682823-17fd-4290-be92-a73e302f3c2a;Machine Learning - Associação;00. Não esperada;2025-10-03 18:28:25
+29040;4a682823-17fd-4290-be92-a73e302f3c2a;Machine Learning - Classificação;00. Não esperada;2025-10-03 18:28:25
+29041;4a682823-17fd-4290-be92-a73e302f3c2a;Machine Learning - Regressão;00. Não esperada;2025-10-03 18:28:25
+29042;4a682823-17fd-4290-be92-a73e302f3c2a;Negociação;01. Aprendiz;2025-10-03 18:28:25
+29043;4a682823-17fd-4290-be92-a73e302f3c2a;Orquestrador de Pipelines;00. Não esperada;2025-10-03 18:28:25
+29044;4a682823-17fd-4290-be92-a73e302f3c2a;Python / R / Julia;01. Aprendiz;2025-10-03 18:28:25
+29045;4a682823-17fd-4290-be92-a73e302f3c2a;Simplificação;00. Não esperada;2025-10-03 18:28:25
+29046;4a682823-17fd-4290-be92-a73e302f3c2a;SQL;00. Não esperada;2025-10-03 18:28:25
+29047;4a682823-17fd-4290-be92-a73e302f3c2a;Teste de hipótese e Teste A/B;00. Não esperada;2025-10-03 18:28:25
+29048;9fe2911e-f548-4e0a-8714-ccc737b8ca50;Apresentação / Storytelling;01. Aprendiz;2025-10-03 21:39:28
+29049;9fe2911e-f548-4e0a-8714-ccc737b8ca50;Comunicação;00. Não esperada;2025-10-03 21:39:28
+29050;9fe2911e-f548-4e0a-8714-ccc737b8ca50;Data Visualization;00. Não esperada;2025-10-03 21:39:28
+29051;9fe2911e-f548-4e0a-8714-ccc737b8ca50;Estatística descritiva;00. Não esperada;2025-10-03 21:39:28
+29052;9fe2911e-f548-4e0a-8714-ccc737b8ca50;ETL;00. Não esperada;2025-10-03 21:39:28
+29053;9fe2911e-f548-4e0a-8714-ccc737b8ca50;Gestão / Liderança;00. Não esperada;2025-10-03 21:39:28
+29054;9fe2911e-f548-4e0a-8714-ccc737b8ca50;Git / GitHub / GitLab / BitBucket;00. Não esperada;2025-10-03 21:39:28
+29055;9fe2911e-f548-4e0a-8714-ccc737b8ca50;Inteligência Emocional;00. Não esperada;2025-10-03 21:39:28
+29056;9fe2911e-f548-4e0a-8714-ccc737b8ca50;Machine Learning - Agrupamento;00. Não esperada;2025-10-03 21:39:28
+29057;9fe2911e-f548-4e0a-8714-ccc737b8ca50;Machine Learning - Associação;00. Não esperada;2025-10-03 21:39:28
+29058;9fe2911e-f548-4e0a-8714-ccc737b8ca50;Machine Learning - Classificação;00. Não esperada;2025-10-03 21:39:28
+29059;9fe2911e-f548-4e0a-8714-ccc737b8ca50;Machine Learning - Regressão;00. Não esperada;2025-10-03 21:39:28
+29060;9fe2911e-f548-4e0a-8714-ccc737b8ca50;Negociação;00. Não esperada;2025-10-03 21:39:29
+29061;9fe2911e-f548-4e0a-8714-ccc737b8ca50;Python / R / Julia;00. Não esperada;2025-10-03 21:39:29
+29062;9fe2911e-f548-4e0a-8714-ccc737b8ca50;Simplificação;00. Não esperada;2025-10-03 21:39:29
+29063;9fe2911e-f548-4e0a-8714-ccc737b8ca50;SQL;00. Não esperada;2025-10-03 21:39:29
+29064;9fe2911e-f548-4e0a-8714-ccc737b8ca50;Teste de hipótese e Teste A/B;00. Não esperada;2025-10-03 21:39:29
+29065;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Apresentação / Storytelling;03. Profissional;2025-10-04 03:18:54
+29066;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Cloud;00. Não esperada;2025-10-04 03:18:54
+29067;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Comunicação;02. Iniciante;2025-10-04 03:18:54
+29068;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Data Visualization;03. Profissional;2025-10-04 03:18:54
+29069;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Docker;00. Não esperada;2025-10-04 03:18:54
+29070;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Estatística descritiva;01. Aprendiz;2025-10-04 03:18:54
+29071;21b9ca5a-92ac-41d9-8ec7-4472128973d8;ETL;02. Iniciante;2025-10-04 03:18:54
+29072;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Gestão / Liderança;01. Aprendiz;2025-10-04 03:18:54
+29073;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Git / GitHub / GitLab / BitBucket;00. Não esperada;2025-10-04 03:18:54
+29074;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Inteligência Emocional;02. Iniciante;2025-10-04 03:18:54
+29075;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Machine Learning - Agrupamento;00. Não esperada;2025-10-04 03:18:54
+29076;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Machine Learning - Associação;00. Não esperada;2025-10-04 03:18:54
+29077;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Machine Learning - Classificação;00. Não esperada;2025-10-04 03:18:54
+29078;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Machine Learning - Regressão;00. Não esperada;2025-10-04 03:18:54
+29079;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Negociação;02. Iniciante;2025-10-04 03:18:54
+29080;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Orquestrador de Pipelines;00. Não esperada;2025-10-04 03:18:54
+29081;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Python / R / Julia;00. Não esperada;2025-10-04 03:18:54
+29082;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Simplificação;02. Iniciante;2025-10-04 03:18:54
+29083;21b9ca5a-92ac-41d9-8ec7-4472128973d8;SQL;02. Iniciante;2025-10-04 03:18:54
+29084;21b9ca5a-92ac-41d9-8ec7-4472128973d8;Teste de hipótese e Teste A/B;00. Não esperada;2025-10-04 03:18:54
+29085;368aff15-a578-44b2-8796-4995c918c837;Apresentação / Storytelling;;2025-10-04 06:14:52
+29086;368aff15-a578-44b2-8796-4995c918c837;Comunicação;;2025-10-04 06:14:52
+29087;368aff15-a578-44b2-8796-4995c918c837;Data Visualization;;2025-10-04 06:14:52
+29088;368aff15-a578-44b2-8796-4995c918c837;Estatística descritiva;;2025-10-04 06:14:52
+29089;368aff15-a578-44b2-8796-4995c918c837;ETL;;2025-10-04 06:14:52
+29090;368aff15-a578-44b2-8796-4995c918c837;Gestão / Liderança;;2025-10-04 06:14:52
+29091;368aff15-a578-44b2-8796-4995c918c837;Git / GitHub / GitLab / BitBucket;02. Iniciante;2025-10-04 06:14:52
+29092;368aff15-a578-44b2-8796-4995c918c837;Inteligência Emocional;;2025-10-04 06:14:52
+29093;368aff15-a578-44b2-8796-4995c918c837;Machine Learning - Agrupamento;;2025-10-04 06:14:52
+29094;368aff15-a578-44b2-8796-4995c918c837;Machine Learning - Associação;;2025-10-04 06:14:52
+29095;368aff15-a578-44b2-8796-4995c918c837;Machine Learning - Classificação;;2025-10-04 06:14:52
+29096;368aff15-a578-44b2-8796-4995c918c837;Machine Learning - Regressão;;2025-10-04 06:14:52
+29097;368aff15-a578-44b2-8796-4995c918c837;Negociação;;2025-10-04 06:14:52
+29098;368aff15-a578-44b2-8796-4995c918c837;Python / R / Julia;;2025-10-04 06:14:52
+29099;368aff15-a578-44b2-8796-4995c918c837;Simplificação;;2025-10-04 06:14:52
+29100;368aff15-a578-44b2-8796-4995c918c837;SQL;02. Iniciante;2025-10-04 06:14:52
+29101;368aff15-a578-44b2-8796-4995c918c837;Teste de hipótese e Teste A/B;;2025-10-04 06:14:52
+29102;82ac4ec1-9fc0-4de9-81ad-d04173ced3d5;Apresentação / Storytelling;02. Iniciante;2025-10-04 09:18:56
+29103;82ac4ec1-9fc0-4de9-81ad-d04173ced3d5;Comunicação;03. Profissional;2025-10-04 09:18:56
+29104;82ac4ec1-9fc0-4de9-81ad-d04173ced3d5;Data Visualization;02. Iniciante;2025-10-04 09:18:56
+29105;82ac4ec1-9fc0-4de9-81ad-d04173ced3d5;Estatística descritiva;03. Profissional;2025-10-04 09:18:56
+29106;82ac4ec1-9fc0-4de9-81ad-d04173ced3d5;ETL;03. Profissional;2025-10-04 09:18:56
+29107;82ac4ec1-9fc0-4de9-81ad-d04173ced3d5;Gestão / Liderança;03. Profissional;2025-10-04 09:18:56
+29108;82ac4ec1-9fc0-4de9-81ad-d04173ced3d5;Git / GitHub / GitLab / BitBucket;00. Não esperada;2025-10-04 09:18:56
+29109;82ac4ec1-9fc0-4de9-81ad-d04173ced3d5;Inteligência Emocional;03. Profissional;2025-10-04 09:18:56
+29110;82ac4ec1-9fc0-4de9-81ad-d04173ced3d5;Machine Learning - Agrupamento;00. Não esperada;2025-10-04 09:18:56
+29111;82ac4ec1-9fc0-4de9-81ad-d04173ced3d5;Machine Learning - Associação;00. Não esperada;2025-10-04 09:18:56
+29112;82ac4ec1-9fc0-4de9-81ad-d04173ced3d5;Machine Learning - Classificação;00. Não esperada;2025-10-04 09:18:56
+29113;82ac4ec1-9fc0-4de9-81ad-d04173ced3d5;Machine Learning - Regressão;00. Não esperada;2025-10-04 09:18:56
+29114;82ac4ec1-9fc0-4de9-81ad-d04173ced3d5;Negociação;04. Expert;2025-10-04 09:18:56
+29115;82ac4ec1-9fc0-4de9-81ad-d04173ced3d5;Python / R / Julia;00. Não esperada;2025-10-04 09:18:56
+29116;82ac4ec1-9fc0-4de9-81ad-d04173ced3d5;Simplificação;03. Profissional;2025-10-04 09:18:56
+29117;82ac4ec1-9fc0-4de9-81ad-d04173ced3d5;SQL;03. Profissional;2025-10-04 09:18:57
+29118;82ac4ec1-9fc0-4de9-81ad-d04173ced3d5;Teste de hipótese e Teste A/B;00. Não esperada;2025-10-04 09:18:57
+29119;5144476a-f6c5-415d-a505-67e95948fdf9;Apresentação / Storytelling;02. Iniciante;2025-10-04 10:03:24
+29120;5144476a-f6c5-415d-a505-67e95948fdf9;Comunicação;02. Iniciante;2025-10-04 10:03:24
+29121;5144476a-f6c5-415d-a505-67e95948fdf9;Data Visualization;02. Iniciante;2025-10-04 10:03:24
+29122;5144476a-f6c5-415d-a505-67e95948fdf9;Estatística descritiva;02. Iniciante;2025-10-04 10:03:24
+29123;5144476a-f6c5-415d-a505-67e95948fdf9;ETL;01. Aprendiz;2025-10-04 10:03:24
+29124;5144476a-f6c5-415d-a505-67e95948fdf9;Gestão / Liderança;00. Não esperada;2025-10-04 10:03:24
+29125;5144476a-f6c5-415d-a505-67e95948fdf9;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-10-04 10:03:24
+29126;5144476a-f6c5-415d-a505-67e95948fdf9;Inteligência Emocional;00. Não esperada;2025-10-04 10:03:24
+29127;5144476a-f6c5-415d-a505-67e95948fdf9;Machine Learning - Agrupamento;00. Não esperada;2025-10-04 10:03:24
+29128;5144476a-f6c5-415d-a505-67e95948fdf9;Machine Learning - Associação;01. Aprendiz;2025-10-04 10:03:24
+29129;5144476a-f6c5-415d-a505-67e95948fdf9;Machine Learning - Classificação;00. Não esperada;2025-10-04 10:03:24
+29130;5144476a-f6c5-415d-a505-67e95948fdf9;Machine Learning - Regressão;00. Não esperada;2025-10-04 10:03:24
+29131;5144476a-f6c5-415d-a505-67e95948fdf9;Negociação;01. Aprendiz;2025-10-04 10:03:24
+29132;5144476a-f6c5-415d-a505-67e95948fdf9;Python / R / Julia;02. Iniciante;2025-10-04 10:03:24
+29133;5144476a-f6c5-415d-a505-67e95948fdf9;Simplificação;01. Aprendiz;2025-10-04 10:03:24
+29134;5144476a-f6c5-415d-a505-67e95948fdf9;SQL;02. Iniciante;2025-10-04 10:03:24
+29135;5144476a-f6c5-415d-a505-67e95948fdf9;Teste de hipótese e Teste A/B;02. Iniciante;2025-10-04 10:03:24
+29136;552241bc-c904-4171-9b34-d2764145d0c4;Apresentação / Storytelling;01. Aprendiz;2025-10-04 11:31:23
+29137;552241bc-c904-4171-9b34-d2764145d0c4;Comunicação;01. Aprendiz;2025-10-04 11:31:23
+29138;552241bc-c904-4171-9b34-d2764145d0c4;Data Visualization;01. Aprendiz;2025-10-04 11:31:23
+29139;552241bc-c904-4171-9b34-d2764145d0c4;Estatística descritiva;00. Não esperada;2025-10-04 11:31:23
+29140;552241bc-c904-4171-9b34-d2764145d0c4;ETL;01. Aprendiz;2025-10-04 11:31:23
+29141;552241bc-c904-4171-9b34-d2764145d0c4;Gestão / Liderança;00. Não esperada;2025-10-04 11:31:23
+29142;552241bc-c904-4171-9b34-d2764145d0c4;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-10-04 11:31:23
+29143;552241bc-c904-4171-9b34-d2764145d0c4;Inteligência Emocional;01. Aprendiz;2025-10-04 11:31:23
+29144;552241bc-c904-4171-9b34-d2764145d0c4;Machine Learning - Agrupamento;01. Aprendiz;2025-10-04 11:31:23
+29145;552241bc-c904-4171-9b34-d2764145d0c4;Machine Learning - Associação;01. Aprendiz;2025-10-04 11:31:23
+29146;552241bc-c904-4171-9b34-d2764145d0c4;Machine Learning - Classificação;02. Iniciante;2025-10-04 11:31:23
+29147;552241bc-c904-4171-9b34-d2764145d0c4;Machine Learning - Regressão;02. Iniciante;2025-10-04 11:31:24
+29148;552241bc-c904-4171-9b34-d2764145d0c4;Negociação;01. Aprendiz;2025-10-04 11:31:24
+29149;552241bc-c904-4171-9b34-d2764145d0c4;Python / R / Julia;01. Aprendiz;2025-10-04 11:31:24
+29150;552241bc-c904-4171-9b34-d2764145d0c4;Simplificação;00. Não esperada;2025-10-04 11:31:24
+29151;552241bc-c904-4171-9b34-d2764145d0c4;SQL;01. Aprendiz;2025-10-04 11:31:24
+29152;552241bc-c904-4171-9b34-d2764145d0c4;Teste de hipótese e Teste A/B;01. Aprendiz;2025-10-04 11:31:24
+29153;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Apresentação / Storytelling;02. Iniciante;2025-10-04 14:01:11
+29154;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Cloud;00. Não esperada;2025-10-04 14:01:11
+29155;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Comunicação;02. Iniciante;2025-10-04 14:01:11
+29156;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Data Visualization;00. Não esperada;2025-10-04 14:01:11
+29157;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Docker;00. Não esperada;2025-10-04 14:01:11
+29158;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Estatística descritiva;01. Aprendiz;2025-10-04 14:01:11
+29159;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;ETL;01. Aprendiz;2025-10-04 14:01:11
+29160;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Gestão / Liderança;01. Aprendiz;2025-10-04 14:01:11
+29161;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Git / GitHub / GitLab / BitBucket;00. Não esperada;2025-10-04 14:01:11
+29162;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Inteligência Emocional;04. Expert;2025-10-04 14:01:11
+29163;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Machine Learning - Agrupamento;00. Não esperada;2025-10-04 14:01:11
+29164;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Machine Learning - Associação;00. Não esperada;2025-10-04 14:01:11
+29165;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Machine Learning - Classificação;00. Não esperada;2025-10-04 14:01:11
+29166;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Machine Learning - Regressão;01. Aprendiz;2025-10-04 14:01:11
+29167;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Negociação;01. Aprendiz;2025-10-04 14:01:11
+29168;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Orquestrador de Pipelines;00. Não esperada;2025-10-04 14:01:11
+29169;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Python / R / Julia;02. Iniciante;2025-10-04 14:01:12
+29170;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Simplificação;01. Aprendiz;2025-10-04 14:01:12
+29171;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;SQL;01. Aprendiz;2025-10-04 14:01:12
+29172;28780a77-5fd1-4a64-9cb8-c3f1bc84a4bb;Teste de hipótese e Teste A/B;02. Iniciante;2025-10-04 14:01:12
+29173;05773ab0-52f5-401d-aa0f-08884dde0bed;Cloud;00. Não esperada;2025-10-04 19:53:30
+29174;05773ab0-52f5-401d-aa0f-08884dde0bed;Docker;00. Não esperada;2025-10-04 19:53:30
+29175;05773ab0-52f5-401d-aa0f-08884dde0bed;Orquestrador de Pipelines;;2025-10-04 19:53:30
+29176;d91954d6-daa5-419e-bf80-0ab89a48cff5;Apresentação / Storytelling;02. Iniciante;2025-10-05 02:33:26
+29177;d91954d6-daa5-419e-bf80-0ab89a48cff5;Cloud;00. Não esperada;2025-10-05 02:33:26
+29178;d91954d6-daa5-419e-bf80-0ab89a48cff5;Comunicação;02. Iniciante;2025-10-05 02:33:26
+29179;d91954d6-daa5-419e-bf80-0ab89a48cff5;Data Visualization;02. Iniciante;2025-10-05 02:33:26
+29180;d91954d6-daa5-419e-bf80-0ab89a48cff5;Docker;00. Não esperada;2025-10-05 02:33:26
+29181;d91954d6-daa5-419e-bf80-0ab89a48cff5;Estatística descritiva;03. Profissional;2025-10-05 02:33:26
+29182;d91954d6-daa5-419e-bf80-0ab89a48cff5;ETL;02. Iniciante;2025-10-05 02:33:26
+29183;d91954d6-daa5-419e-bf80-0ab89a48cff5;Gestão / Liderança;00. Não esperada;2025-10-05 02:33:26
+29184;d91954d6-daa5-419e-bf80-0ab89a48cff5;Git / GitHub / GitLab / BitBucket;02. Iniciante;2025-10-05 02:33:26
+29185;d91954d6-daa5-419e-bf80-0ab89a48cff5;Inteligência Emocional;03. Profissional;2025-10-05 02:33:26
+29186;d91954d6-daa5-419e-bf80-0ab89a48cff5;Machine Learning - Agrupamento;02. Iniciante;2025-10-05 02:33:26
+29187;d91954d6-daa5-419e-bf80-0ab89a48cff5;Machine Learning - Associação;02. Iniciante;2025-10-05 02:33:26
+29188;d91954d6-daa5-419e-bf80-0ab89a48cff5;Machine Learning - Classificação;02. Iniciante;2025-10-05 02:33:26
+29189;d91954d6-daa5-419e-bf80-0ab89a48cff5;Machine Learning - Regressão;03. Profissional;2025-10-05 02:33:26
+29190;d91954d6-daa5-419e-bf80-0ab89a48cff5;Negociação;01. Aprendiz;2025-10-05 02:33:26
+29191;d91954d6-daa5-419e-bf80-0ab89a48cff5;Orquestrador de Pipelines;00. Não esperada;2025-10-05 02:33:26
+29192;d91954d6-daa5-419e-bf80-0ab89a48cff5;Python / R / Julia;03. Profissional;2025-10-05 02:33:26
+29193;d91954d6-daa5-419e-bf80-0ab89a48cff5;Simplificação;02. Iniciante;2025-10-05 02:33:26
+29194;d91954d6-daa5-419e-bf80-0ab89a48cff5;SQL;02. Iniciante;2025-10-05 02:33:26
+29195;d91954d6-daa5-419e-bf80-0ab89a48cff5;Teste de hipótese e Teste A/B;02. Iniciante;2025-10-05 02:33:26
+29196;4acc9396-fe24-42d4-b702-d8c369dc0f56;Apresentação / Storytelling;01. Aprendiz;2025-10-05 13:03:50
+29197;4acc9396-fe24-42d4-b702-d8c369dc0f56;Comunicação;02. Iniciante;2025-10-05 13:03:50
+29198;4acc9396-fe24-42d4-b702-d8c369dc0f56;Data Visualization;01. Aprendiz;2025-10-05 13:03:50
+29199;4acc9396-fe24-42d4-b702-d8c369dc0f56;Estatística descritiva;01. Aprendiz;2025-10-05 13:03:50
+29200;4acc9396-fe24-42d4-b702-d8c369dc0f56;ETL;01. Aprendiz;2025-10-05 13:03:51
+29201;4acc9396-fe24-42d4-b702-d8c369dc0f56;Gestão / Liderança;01. Aprendiz;2025-10-05 13:03:51
+29202;4acc9396-fe24-42d4-b702-d8c369dc0f56;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-10-05 13:03:51
+29203;4acc9396-fe24-42d4-b702-d8c369dc0f56;Inteligência Emocional;01. Aprendiz;2025-10-05 13:03:51
+29204;4acc9396-fe24-42d4-b702-d8c369dc0f56;Machine Learning - Agrupamento;01. Aprendiz;2025-10-05 13:03:51
+29205;4acc9396-fe24-42d4-b702-d8c369dc0f56;Machine Learning - Associação;01. Aprendiz;2025-10-05 13:03:51
+29206;4acc9396-fe24-42d4-b702-d8c369dc0f56;Machine Learning - Classificação;01. Aprendiz;2025-10-05 13:03:51
+29207;4acc9396-fe24-42d4-b702-d8c369dc0f56;Machine Learning - Regressão;01. Aprendiz;2025-10-05 13:03:51
+29208;4acc9396-fe24-42d4-b702-d8c369dc0f56;Negociação;01. Aprendiz;2025-10-05 13:03:51
+29209;4acc9396-fe24-42d4-b702-d8c369dc0f56;Python / R / Julia;01. Aprendiz;2025-10-05 13:03:51
+29210;4acc9396-fe24-42d4-b702-d8c369dc0f56;Simplificação;01. Aprendiz;2025-10-05 13:03:51
+29211;4acc9396-fe24-42d4-b702-d8c369dc0f56;SQL;01. Aprendiz;2025-10-05 13:03:51
+29212;4acc9396-fe24-42d4-b702-d8c369dc0f56;Teste de hipótese e Teste A/B;01. Aprendiz;2025-10-05 13:03:51
+29213;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Apresentação / Storytelling;01. Aprendiz;2025-10-05 15:24:40
+29214;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Cloud;00. Não esperada;2025-10-05 15:24:40
+29215;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Comunicação;03. Profissional;2025-10-05 15:24:40
+29216;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Data Visualization;00. Não esperada;2025-10-05 15:24:40
+29217;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Docker;00. Não esperada;2025-10-05 15:24:40
+29218;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Estatística descritiva;00. Não esperada;2025-10-05 15:24:40
+29219;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;ETL;01. Aprendiz;2025-10-05 15:24:40
+29220;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Gestão / Liderança;03. Profissional;2025-10-05 15:24:40
+29221;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-10-05 15:24:40
+29222;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Inteligência Emocional;03. Profissional;2025-10-05 15:24:40
+29223;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Machine Learning - Agrupamento;00. Não esperada;2025-10-05 15:24:40
+29224;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Machine Learning - Associação;00. Não esperada;2025-10-05 15:24:40
+29225;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Machine Learning - Classificação;00. Não esperada;2025-10-05 15:24:40
+29226;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Machine Learning - Regressão;00. Não esperada;2025-10-05 15:24:40
+29227;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Negociação;01. Aprendiz;2025-10-05 15:24:41
+29228;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Orquestrador de Pipelines;00. Não esperada;2025-10-05 15:24:41
+29229;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Python / R / Julia;01. Aprendiz;2025-10-05 15:24:41
+29230;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Simplificação;00. Não esperada;2025-10-05 15:24:41
+29231;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;SQL;02. Iniciante;2025-10-05 15:24:41
+29232;3bb8bc4c-62d0-4ae6-a7b4-376d90ec678a;Teste de hipótese e Teste A/B;00. Não esperada;2025-10-05 15:24:41
+29233;0acb747b-bede-4682-ba24-8f5041cbdff8;Apresentação / Storytelling;01. Aprendiz;2025-10-05 18:05:07
+29234;0acb747b-bede-4682-ba24-8f5041cbdff8;Cloud;01. Aprendiz;2025-10-05 18:05:07
+29235;0acb747b-bede-4682-ba24-8f5041cbdff8;Comunicação;01. Aprendiz;2025-10-05 18:05:07
+29236;0acb747b-bede-4682-ba24-8f5041cbdff8;Data Visualization;01. Aprendiz;2025-10-05 18:05:07
+29237;0acb747b-bede-4682-ba24-8f5041cbdff8;Docker;01. Aprendiz;2025-10-05 18:05:07
+29238;0acb747b-bede-4682-ba24-8f5041cbdff8;Estatística descritiva;01. Aprendiz;2025-10-05 18:05:07
+29239;0acb747b-bede-4682-ba24-8f5041cbdff8;ETL;01. Aprendiz;2025-10-05 18:05:07
+29240;0acb747b-bede-4682-ba24-8f5041cbdff8;Gestão / Liderança;01. Aprendiz;2025-10-05 18:05:07
+29241;0acb747b-bede-4682-ba24-8f5041cbdff8;Git / GitHub / GitLab / BitBucket;01. Aprendiz;2025-10-05 18:05:07
+29242;0acb747b-bede-4682-ba24-8f5041cbdff8;Inteligência Emocional;01. Aprendiz;2025-10-05 18:05:08
+29243;0acb747b-bede-4682-ba24-8f5041cbdff8;Machine Learning - Agrupamento;01. Aprendiz;2025-10-05 18:05:08
+29244;0acb747b-bede-4682-ba24-8f5041cbdff8;Machine Learning - Associação;01. Aprendiz;2025-10-05 18:05:08
+29245;0acb747b-bede-4682-ba24-8f5041cbdff8;Machine Learning - Classificação;01. Aprendiz;2025-10-05 18:05:08
+29246;0acb747b-bede-4682-ba24-8f5041cbdff8;Machine Learning - Regressão;01. Aprendiz;2025-10-05 18:05:08
+29247;0acb747b-bede-4682-ba24-8f5041cbdff8;Negociação;00. Não esperada;2025-10-05 18:05:08
+29248;0acb747b-bede-4682-ba24-8f5041cbdff8;Orquestrador de Pipelines;01. Aprendiz;2025-10-05 18:05:08
+29249;0acb747b-bede-4682-ba24-8f5041cbdff8;Python / R / Julia;01. Aprendiz;2025-10-05 18:05:08
+29250;0acb747b-bede-4682-ba24-8f5041cbdff8;Simplificação;01. Aprendiz;2025-10-05 18:05:08
+29251;0acb747b-bede-4682-ba24-8f5041cbdff8;SQL;01. Aprendiz;2025-10-05 18:05:08
+29252;0acb747b-bede-4682-ba24-8f5041cbdff8;Teste de hipótese e Teste A/B;01. Aprendiz;2025-10-05 18:05:08
+29253;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Apresentação / Storytelling;02. Iniciante;2025-10-05 22:56:39
+29254;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Cloud;00. Não esperada;2025-10-05 22:56:39
+29255;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Comunicação;03. Profissional;2025-10-05 22:56:39
+29256;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Data Visualization;01. Aprendiz;2025-10-05 22:56:39
+29257;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Docker;00. Não esperada;2025-10-05 22:56:39
+29258;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Estatística descritiva;00. Não esperada;2025-10-05 22:56:39
+29259;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;ETL;00. Não esperada;2025-10-05 22:56:39
+29260;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Gestão / Liderança;01. Aprendiz;2025-10-05 22:56:39
+29261;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Git / GitHub / GitLab / BitBucket;00. Não esperada;2025-10-05 22:56:39
+29262;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Inteligência Emocional;02. Iniciante;2025-10-05 22:56:39
+29263;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Machine Learning - Agrupamento;00. Não esperada;2025-10-05 22:56:39
+29264;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Machine Learning - Associação;00. Não esperada;2025-10-05 22:56:39
+29265;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Machine Learning - Classificação;01. Aprendiz;2025-10-05 22:56:39
+29266;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Machine Learning - Regressão;01. Aprendiz;2025-10-05 22:56:39
+29267;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Negociação;01. Aprendiz;2025-10-05 22:56:39
+29268;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Orquestrador de Pipelines;00. Não esperada;2025-10-05 22:56:39
+29269;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Python / R / Julia;01. Aprendiz;2025-10-05 22:56:39
+29270;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Simplificação;00. Não esperada;2025-10-05 22:56:39
+29271;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;SQL;00. Não esperada;2025-10-05 22:56:39
+29272;87a13af2-2d24-4ad6-ae6d-4e9a6ac4ef27;Teste de hipótese e Teste A/B;00. Não esperada;2025-10-05 22:56:39
+29273;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Apresentação / Storytelling;00. Não esperada;2025-10-06 00:47:28
+29274;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Cloud;00. Não esperada;2025-10-06 00:47:28
+29275;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Comunicação;01. Aprendiz;2025-10-06 00:47:28
+29276;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Data Visualization;00. Não esperada;2025-10-06 00:47:28
+29277;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Docker;00. Não esperada;2025-10-06 00:47:28
+29278;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Estatística descritiva;00. Não esperada;2025-10-06 00:47:28
+29279;9fd31b90-6d78-443f-a7e3-317677c9c9e9;ETL;00. Não esperada;2025-10-06 00:47:28
+29280;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Gestão / Liderança;00. Não esperada;2025-10-06 00:47:28
+29281;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Git / GitHub / GitLab / BitBucket;03. Profissional;2025-10-06 00:47:28
+29282;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Inteligência Emocional;02. Iniciante;2025-10-06 00:47:28
+29283;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Machine Learning - Agrupamento;00. Não esperada;2025-10-06 00:47:28
+29284;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Machine Learning - Associação;00. Não esperada;2025-10-06 00:47:28
+29285;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Machine Learning - Classificação;00. Não esperada;2025-10-06 00:47:29
+29286;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Machine Learning - Regressão;00. Não esperada;2025-10-06 00:47:29
+29287;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Negociação;00. Não esperada;2025-10-06 00:47:29
+29288;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Orquestrador de Pipelines;00. Não esperada;2025-10-06 00:47:29
+29289;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Python / R / Julia;01. Aprendiz;2025-10-06 00:47:29
+29290;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Simplificação;00. Não esperada;2025-10-06 00:47:29
+29291;9fd31b90-6d78-443f-a7e3-317677c9c9e9;SQL;03. Profissional;2025-10-06 00:47:29
+29292;9fd31b90-6d78-443f-a7e3-317677c9c9e9;Teste de hipótese e Teste A/B;00. Não esperada;2025-10-06 00:47:29
+29293;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;Apache Spark;00. Não esperada;2025-10-06 00:52:20
+29294;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;Cloud;00. Não esperada;2025-10-06 00:52:20
+29295;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;Comunicação;00. Não esperada;2025-10-06 00:52:20
+29296;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;Docker;00. Não esperada;2025-10-06 00:52:20
+29297;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;ETL;00. Não esperada;2025-10-06 00:52:20
+29298;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;Gestão / Liderança;00. Não esperada;2025-10-06 00:52:20
+29299;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;Git / GitHub / GitLab / BitBucket;00. Não esperada;2025-10-06 00:52:20
+29300;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;IaC;00. Não esperada;2025-10-06 00:52:20
+29301;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;Kubernetes;00. Não esperada;2025-10-06 00:52:20
+29302;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;Machine Learning - Classificação;01. Aprendiz;2025-10-06 00:52:20
+29303;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;Machine Learning - Regressão;01. Aprendiz;2025-10-06 00:52:20
+29304;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;Mensageria;01. Aprendiz;2025-10-06 00:52:21
+29305;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;Modelagem de dados;01. Aprendiz;2025-10-06 00:52:21
+29306;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;Negociação;01. Aprendiz;2025-10-06 00:52:21
+29307;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;Orquestrador de Pipelines;00. Não esperada;2025-10-06 00:52:21
+29308;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;Python / R / Julia;00. Não esperada;2025-10-06 00:52:21
+29309;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;Simplificação;00. Não esperada;2025-10-06 00:52:21
+29310;55b8d527-a5f9-4d37-97e7-fc1f63d18cb8;SQL;00. Não esperada;2025-10-06 00:52:21
+29311;b6145a2f-e861-4e92-987c-7745f91001ae;Apache Spark;00. Não esperada;2025-10-06 01:57:01
+29312;b6145a2f-e861-4e92-987c-7745f91001ae;Cloud;00. Não esperada;2025-10-06 01:57:01
+29313;b6145a2f-e861-4e92-987c-7745f91001ae;Comunicação;02. Iniciante;2025-10-06 01:57:01
+29314;b6145a2f-e861-4e92-987c-7745f91001ae;Docker;00. Não esperada;2025-10-06 01:57:01
+29315;b6145a2f-e861-4e92-987c-7745f91001ae;ETL;00. Não esperada;2025-10-06 01:57:01
+29316;b6145a2f-e861-4e92-987c-7745f91001ae;Gestão / Liderança;00. Não esperada;2025-10-06 01:57:01
+29317;b6145a2f-e861-4e92-987c-7745f91001ae;Git / GitHub / GitLab / BitBucket;00. Não esperada;2025-10-06 01:57:01
+29318;b6145a2f-e861-4e92-987c-7745f91001ae;IaC;00. Não esperada;2025-10-06 01:57:01
+29319;b6145a2f-e861-4e92-987c-7745f91001ae;Kubernetes;00. Não esperada;2025-10-06 01:57:01
+29320;b6145a2f-e861-4e92-987c-7745f91001ae;Machine Learning - Classificação;00. Não esperada;2025-10-06 01:57:01
+29321;b6145a2f-e861-4e92-987c-7745f91001ae;Machine Learning - Regressão;00. Não esperada;2025-10-06 01:57:01
+29322;b6145a2f-e861-4e92-987c-7745f91001ae;Mensageria;00. Não esperada;2025-10-06 01:57:01
+29323;b6145a2f-e861-4e92-987c-7745f91001ae;Modelagem de dados;00. Não esperada;2025-10-06 01:57:01
+29324;b6145a2f-e861-4e92-987c-7745f91001ae;Negociação;00. Não esperada;2025-10-06 01:57:02
+29325;b6145a2f-e861-4e92-987c-7745f91001ae;Orquestrador de Pipelines;00. Não esperada;2025-10-06 01:57:02
+29326;b6145a2f-e861-4e92-987c-7745f91001ae;Python / R / Julia;00. Não esperada;2025-10-06 01:57:02
+29327;b6145a2f-e861-4e92-987c-7745f91001ae;Simplificação;00. Não esperada;2025-10-06 01:57:02
+29328;b6145a2f-e861-4e92-987c-7745f91001ae;SQL;00. Não esperada;2025-10-06 01:57:02
