@@ -208,4 +208,6 @@ __marimo__/
 
 # Database
 data/*
+!data/.gitkeep
 *.db
+data/analytics/database.db
