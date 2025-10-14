@@ -51,29 +51,17 @@ num_features = list(set(features) - set(cat_features))
 df_train = X_train.copy()
 df_train[target] = y_train.copy()
 
-df_train[num_features].astype(float)
+df_train[num_features] = df_train[num_features].astype(float)
 
 bivariada = df_train.groupby(target)[num_features].median().T
 bivariada['ratio'] = (bivariada[1] + 0.001) / (bivariada[0] + 0.001)
 bivariada.sort_values(by='ratio', ascending=False)
 
-to_remove = bivariada[bivariada['ratio']==1].index.tolist()
-to_remove
-
-for i in to_remove:
-    features.remove(i)
-    num_features.remove(i)
-
-bivariada = df_train.groupby(target)[num_features].median().T
-bivariada['ratio'] = (bivariada[1] + 0.001) / (bivariada[0] + 0.001)
-bivariada.sort_values(by='ratio', ascending=False)
-
-# %%
-
-bivariada_cat = df_train.groupby('descLifeCycleAtual')[target].mean()
-bivariada_cat
 
 # %%
 df_train.groupby('descLifeCycleD28')[target].mean()
 
 # %%
+# MODIFY
+to_remove = bivariada[bivariada['ratio']==1].index.tolist()
+to_remove
